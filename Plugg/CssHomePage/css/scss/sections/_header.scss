@@ -1,0 +1,48 @@
+header {
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+    .container {
+        display: grid;
+        grid-template-columns: auto 1fr auto;
+        grid-template-areas: "logo nav account";
+
+        padding-top: 8px;
+        padding-left: 12px;
+
+        gap: 40px;
+        align-items: center;
+        justify-content: center;
+        background-color: var(--color-white);
+
+        .logo-link {
+            grid-area: "logo";
+        }
+
+        nav {
+            grid-area: "nav";
+            .nav-link {
+                @include font-medium;
+                margin-right: 20px;
+                
+                &:hover {
+                    text-decoration: underline;
+                    cursor: pointer;
+                }
+            }
+        }
+
+        .account-buttons {
+            display: flex;
+            gap: 20px;
+            grid-area: "account";
+            
+        }
+        
+    }
+
+    
+
+    
+
+}

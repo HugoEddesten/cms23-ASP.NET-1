@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\nackademin\\cms23-ASPNET\\Plugg\\WebApp\\WebApp\\wwwroot\\css\\scss\\_components.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\_components.scss"
+    },
+    {
+      "Id": "D:\\nackademin\\cms23-ASPNET\\Plugg\\WebApp\\WebApp\\wwwroot\\css\\scss\\_cores.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\_cores.scss"
+    },
+    {
+      "Id": "D:\\nackademin\\cms23-ASPNET\\Plugg\\WebApp\\WebApp\\wwwroot\\css\\scss\\_sections.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\_sections.scss"
+    },
+    {
+      "Id": "D:\\nackademin\\cms23-ASPNET\\Plugg\\WebApp\\WebApp\\wwwroot\\css\\scss\\cores\\_colors.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\cores\\_colors.scss"
+    },
+    {
+      "Id": "D:\\nackademin\\cms23-ASPNET\\Plugg\\WebApp\\WebApp\\wwwroot\\css\\scss\\cores\\_general.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\cores\\_general.scss"
+    },
+    {
+      "Id": "D:\\nackademin\\cms23-ASPNET\\Plugg\\WebApp\\WebApp\\wwwroot\\css\\scss\\cores\\_typography.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\cores\\_typography.scss"
+    },
+    {
+      "Id": "D:\\nackademin\\cms23-ASPNET\\Plugg\\WebApp\\WebApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\nackademin\\cms23-ASPNET\\Plugg\\WebApp\\WebApp\\wwwroot\\css\\site.min.css",
+      "PackagePath": "staticwebassets\\css\\site.min.css"
+    },
+    {
+      "Id": "D:\\nackademin\\cms23-ASPNET\\Plugg\\WebApp\\WebApp\\wwwroot\\css\\site.scss",
+      "PackagePath": "staticwebassets\\css\\site.scss"
+    },
+    {
+      "Id": "D:\\nackademin\\cms23-ASPNET\\Plugg\\WebApp\\WebApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebApp.props",
+      "PackagePath": "build\\WebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApp.props",
+      "PackagePath": "buildMultiTargeting\\WebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebApp.props",
+      "PackagePath": "buildTransitive\\WebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

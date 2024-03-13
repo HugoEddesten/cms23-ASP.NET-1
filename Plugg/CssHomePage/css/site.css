@@ -1,0 +1,216 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap");
+:root {
+  --color-white: #ffffff;
+  --color-black: #000000;
+  --color-theme: #6366F1;
+  --color-theme-o: #6365f1e6;
+  --color-gray-100: #F3F6FF;
+  --color-gray-200: #EFF2FC;
+  --color-gray-300: #E2E5F1;
+  --color-gray-400: #D4D7E5;
+  --color-gray-500: #B4B7C9;
+  --color-gray-600: #9397AD;
+  --color-gray-700: #565973;
+  --color-gray-800: #33354D;
+  --color-gray-900: #0B0F19;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Manrope", "sans-serif";
+  line-height: 1.5;
+  font-weight: 400;
+  margin: 0;
+  color: var(--color-gray-900);
+  background-color: var(--color-white);
+}
+
+.container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+@media (min-width: 576px) {
+  .container {
+    max-width: 540px;
+  }
+}
+@media (min-width: 768px) {
+  .container {
+    max-width: 720px;
+  }
+}
+@media (min-width: 992px) {
+  .container {
+    max-width: 960px;
+  }
+}
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1140px;
+  }
+}
+@media (min-width: 1400px) {
+  .container {
+    max-width: 1320px;
+  }
+}
+
+.btn-theme {
+  font-family: "Manrope", "sans-serif";
+  line-height: 1.5;
+  font-weight: 600;
+  font-size: 16px;
+  padding: 10px 30px;
+  border: solid 2px var(--color-theme);
+  border-radius: 4px;
+  transition: all 0.12s ease-in-out;
+  background-color: var(--color-theme);
+  color: var(--color-white);
+}
+.btn-theme i {
+  margin-right: 10px;
+}
+.btn-theme:hover {
+  background-color: var(--color-white);
+  color: var(--color-theme);
+  cursor: pointer;
+}
+
+.btn-secondary {
+  font-family: "Manrope", "sans-serif";
+  line-height: 1.5;
+  font-weight: 600;
+  font-size: 16px;
+  padding: 10px 30px;
+  border: solid 2px var(--color-theme);
+  border-radius: 4px;
+  transition: all 0.12s ease-in-out;
+  border-color: var(--color-gray-200);
+  background-color: var(--color-gray-200);
+  color: var(--color-gray-800);
+}
+.btn-secondary i {
+  margin-right: 10px;
+}
+.btn-secondary:hover {
+  background-color: var(--color-white);
+  border-color: var(--color-gray-300);
+  cursor: pointer;
+}
+
+header {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+header .container {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  grid-template-areas: "logo nav account";
+  padding-top: 8px;
+  padding-left: 12px;
+  gap: 40px;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--color-white);
+}
+header .container .logo-link {
+  grid-area: "logo";
+}
+header .container nav {
+  grid-area: "nav";
+}
+header .container nav .nav-link {
+  font-family: "Manrope", "sans-serif";
+  line-height: 1.5;
+  font-weight: 500;
+  margin-right: 20px;
+}
+header .container nav .nav-link:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+header .container .account-buttons {
+  display: flex;
+  gap: 20px;
+  grid-area: "account";
+}
+
+footer .container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+footer .container nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 20px;
+}
+footer .container nav .social-btn {
+  display: flex;
+  align-items: center;
+  padding: 12px;
+  border-radius: 6px;
+  border: solid 2px var(--color-gray-200);
+  background-color: var(--color-gray-200);
+  transition: all 0.12s ease-in-out;
+}
+footer .container nav .social-btn:hover {
+  background-color: var(--color-white);
+  border-color: var(--color-gray-300);
+  cursor: pointer;
+}
+footer .container .footer-text {
+  font-family: "Manrope", "sans-serif";
+  line-height: 1.5;
+  font-weight: 400;
+  color: var(--color-gray-600);
+  max-width: 65%;
+  text-align: center;
+}
+
+.container.showcase {
+  margin-top: 70px;
+}
+.container.showcase img {
+  position: absolute;
+  margin-top: -5em;
+  right: 0;
+  width: 50vw;
+  z-index: -1;
+}
+.container.showcase .content {
+  display: flex;
+  flex-direction: column;
+  max-width: 33em;
+}
+.container.showcase .content h1 {
+  font-family: "Manrope", "sans-serif";
+  line-height: 1.5;
+  font-weight: 700;
+  font-family: "Manrope", "sans-serif";
+  line-height: 1.5;
+  font-weight: 800;
+  line-height: 1.3;
+  font-size: 3.5em;
+}
+.container.showcase .content h3 {
+  margin-block-start: 0;
+  margin-block-end: 3em;
+  font-family: "Manrope", "sans-serif";
+  line-height: 1.5;
+  font-weight: 400;
+  color: var(--color-gray-700);
+}
+.container.showcase .content a {
+  box-shadow: 0 8px 18px -8px var(--color-theme-o);
+  width: -moz-fit-content;
+  width: fit-content;
+  text-decoration: none;
+}/*# sourceMappingURL=site.css.map */

@@ -1,0 +1,43 @@
+.container.showcase {
+    
+    margin-top: 70px;
+    
+
+
+    img {
+        position: absolute;
+        margin-top: -5em;
+        right: 0;
+        width: 50vw;
+        z-index: -1;
+        
+    }
+
+    .content {
+        display: flex;
+        flex-direction: column;
+        max-width: 33em;
+        h1 {
+            @include font-bold;
+            @include font-d4;
+            
+            
+        }
+
+        h3 {
+            margin-block-start: 0;
+            margin-block-end: 3em;
+            @include font-standard;
+            color: var(--color-gray-700);
+        }   
+
+        a {
+            @include shadow-theme;
+            width: fit-content;
+            text-decoration: none;
+        }
+    }
+    
+
+    
+}
