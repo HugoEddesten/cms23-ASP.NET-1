@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="./css/site.css"/>
+        <script src="https://kit.fontawesome.com/a041cc045c.js" crossorigin="anonymous"></script>
+        <script src="./js/site.js"></script>
+        <title>Document</title>
+    </head>
+    <body>
+        <header>
+            <div class="container">
+                <a class="logo-link" asp-controller="Default" asp-action="Home"><img src="./images/logo.svg"></img></a>
+        
+                <nav>
+                    <a class="nav-link">Overview</a>
+                    <a class="nav-link">Features</a>
+                    <a class="nav-link">Contact</a>
+                </nav>
+        
+                <div class="account-buttons">
+                    <a asp-controller="Auth" asp-action="SignIn" class="btn-secondary">
+                        <i class="fa-regular fa-arrow-right-to-bracket"></i>
+                        Sign In
+                    </a>
+                    <a asp-controller="Auth" asp-action="SignUp" class="btn-theme">
+                        <i class="fa-regular fa-user"></i>
+                        Sign Up
+                    </a>
+                </div>
+        
+                <button class="menu-icon"><i class="fa-thin fa-bars"></i></button>
+            </div>
+        
+        
+        </header>
+
+        <section class="signup">
+            <div class="container">
+                <h1>
+                    Create Account
+                </h1>
+                <p>Already have an account? <a asp-controller="Auth" asp-action="SignIn">Sign in here.</a></p>
+        
+                <form>
+                    <div class="firstname input-group">
+                        <label>First name</label>
+                        <input name="FirstName" placeholder="Enter your first name"/>
+                        <span></span>
+                    </div>
+        
+                    <div class="lastname input-group">
+                        <label>Last name</label>
+                        <input name="LastName" placeholder="Enter your last name"/>
+                        <span asp-validation-for="LastName"></span>
+                    </div>
+        
+                    <div class="email input-group">
+                        <label asp-for="Email">Email address</label>
+                        <input name="Email" placeholder="Enter your email address"/>
+                        <span asp-validation-for="Email"></span>
+                    </div>
+        
+                    <div class="password input-group">
+                        <label asp-for="Password">Password</label>
+                        <input name="Password" placeholder="********"/>
+                        <span asp-validation-for="Password"></span>
+                    </div>
+        
+                    <div class="confirm input-group">
+                        <label asp-for="ConfirmPassword">Confirm password</label>
+                        <input name="Confirmation" placeholder="********"/>
+                        <span asp-validation-for="ConfirmPassword"></span>
+                    </div>
+        
+                    <div class="checkbox-group">
+                        <div class="input-group">
+                            <input type="checkbox" name="Terms"/>
+                            <label>I agree to the <a href="#">Terms</a> and <a href="#">Conditions</a></label>
+                            <span></span>
+                        </div>
+                        
+                    </div>
+        
+                    <button class="btn btn-theme" type="submit">Sign up</button>
+        
+                </form>
+            </div>
+        </section>    
+
+        <footer>
+            <div class="container">
+                <nav>
+                    <a class="social-btn"><img src="./images/social-medias/bxl-facebook-square.svg" alt="" /></a>
+                    <a class="social-btn"><img src="./images/social-medias/bxl-twitter.svg" alt="" /></a>
+                    <a class="social-btn"><img src="./images/social-medias/bxl-instagram-alt.svg" alt="" /></a>
+                    <a class="social-btn"><img src="./images/social-medias/bxl-youtube.svg" alt="" /></a>
+                </nav>
+        
+                <p class="footer-text">© 2024 Silicon. All rights reserved. Pulvinar urna condimentum amet tempor, ornare integer. Lorem odio justo malesuada suspendisse viverra aliquet quisque turpis non. Feugiat in odio non nunc ornare consectetur.</h5>
+            </div>
+        </footer>
+    </body>
+</html>

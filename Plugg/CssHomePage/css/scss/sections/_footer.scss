@@ -1,5 +1,6 @@
 footer {
-    
+    padding-top: 30px;
+
     .container {
         display: flex;
         flex-direction: column;
@@ -31,8 +32,8 @@ footer {
         }
         
 
-        .footer-text {
-            @include font-standard;
+        p {
+            font-size: 0.75em !important;
             color: var(--color-gray-600);
             max-width: 65%;
             text-align: center;

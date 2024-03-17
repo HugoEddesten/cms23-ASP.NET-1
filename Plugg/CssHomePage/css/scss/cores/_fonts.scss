@@ -5,11 +5,13 @@ $font-marope: "Manrope", "sans-serif";
 @mixin font {
     font-family: $font-marope;
     line-height: 1.5;
+    font-size: 16px;
 }
 
 @mixin heading {
     @include font;
     font-weight: 800;
+    line-height: 1.3;
 }
 
 @mixin font-standard {
@@ -33,8 +35,75 @@ $font-marope: "Manrope", "sans-serif";
     font-weight: 800;
 }
 
+@mixin font-d1 {
+    @include heading;
+    font-size: 5em !important;
+}
+
+@mixin font-d2 {
+    @include heading;
+    font-size: 4.5em !important;
+}
+
+@mixin font-d3 {
+    @include heading;
+    font-size: 4em !important;
+}
+
 @mixin font-d4 {
     @include heading;
-    line-height: 1.3;
-    font-size: 3.5em;
+    font-size: 3.5em !important;
+}
+
+@mixin font-d5 {
+    @include heading;
+    font-size: 3em !important;
+}
+
+h1 {
+    @include heading;
+    font-size: 2.5em !important;
+}
+
+h2 {
+    @include heading;
+    font-size: 2em !important;
+}
+
+h3 {
+    @include heading;
+    font-size: 1.75em !important;
+}
+
+h4 {
+    @include heading;
+    font-size: 1.5em !important;
+}
+
+h5 {
+    @include heading;
+    font-size: 1.25em !important;
+}
+
+h6 {
+    @include heading;
+    font-size: 1em !important;
+}
+
+@mixin font-p-large {
+    @include font-standard;
+    font-size: 1.125em;
+    
+}
+
+@mixin font-p-small {
+    @include font-standard;
+    font-size: 0.875em;
+    
+}
+
+p {
+    @include font-standard;
+    font-size: 1em;
+    color: var(--color-gray-700);
 }

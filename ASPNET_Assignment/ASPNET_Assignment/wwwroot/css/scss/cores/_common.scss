@@ -1,0 +1,10 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+body {
+    @include font-standard;
+    margin: 0;
+    color: var(--color-gray-900);
+    background-color: var(--color-white);
+}

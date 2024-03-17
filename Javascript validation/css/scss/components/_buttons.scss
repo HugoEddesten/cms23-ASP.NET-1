@@ -1,0 +1,39 @@
+@mixin button-standard {
+    @include font-m;
+    @include font-semibold;
+    padding: 5px 20px;
+    border: solid 2px var(--color-theme);
+    border-radius: 4px;
+    transition: all 0.12s ease-in-out;
+    text-decoration: none;
+
+    i {
+        margin-right: 10px;  
+    }
+
+}
+
+.btn-theme {
+    @include button-standard;
+    background-color: var(--color-theme);
+    color: var(--color-white);
+    
+    &:hover {
+        background-color: var(--color-white);
+        color: var(--color-theme);
+        cursor: pointer;
+    }
+}
+
+.btn-secondary {
+    @include button-standard;
+    border-color: var(--color-gray-200);
+    background-color: var(--color-gray-200);
+    color: var(--color-gray-800);
+
+    &:hover {
+        background-color: var(--color-white);
+        border-color: var(--color-gray-300);
+        cursor: pointer;
+    }
+}

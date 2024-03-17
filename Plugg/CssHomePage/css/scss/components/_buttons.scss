@@ -1,7 +1,8 @@
 @mixin button-standard {
     @include font-semibold;
-    font-size: 16px;
-    padding: 10px 30px;
+    
+    font-size: 14px;
+    padding: 5px 20px;
     border: solid 2px var(--color-theme);
     border-radius: 4px;
     transition: all 0.12s ease-in-out;

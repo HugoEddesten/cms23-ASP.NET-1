@@ -1,43 +1,80 @@
-.container.showcase {
-    
-    margin-top: 70px;
-    
+.showcase {
+    margin-top: 50px;
+    margin-bottom: 200px;
 
+    @include md {
+        margin-bottom: 300px;
+    }
 
-    img {
-        position: absolute;
-        margin-top: -5em;
-        right: 0;
+    .showcase-img {
         width: 50vw;
+        min-width: 30em;
         z-index: -1;
+        
+        @include md {
+            position: absolute;
+            right: 0;
+            
+        }
         
     }
 
-    .content {
-        display: flex;
-        flex-direction: column;
-        max-width: 33em;
-        h1 {
-            @include font-bold;
-            @include font-d4;
-            
+    .container {
+
+        .content {
+            display: flex;
+            flex-direction: column;
+            max-width: 33em;
+            text-align: center;
+            align-items: center;
+            gap: 30px;
+
+            @include md {
+                text-align: left;
+            }
+
+            h1 {
+                @include font-bold;
+                margin-bottom: 0;
+                
+                @include md {
+                    margin-bottom: 10px;
+                    @include font-d4;
+                }
+            }
+
+            p {
+                @include font-p-large;
+                margin-block-start: 0;
+                
+                line-height: 1.6;
+            }   
+
+            a {
+                @include shadow-theme;
+                @include font-p-large;
+                @include font-semibold;
+                width: fit-content;
+                align-self: center;
+                text-decoration: none;
+                padding: 12px 30px;
+                margin-bottom: 100px;
+
+                @include md {
+                    align-self: flex-start;
+                }
+                
+            }
+
             
         }
 
-        h3 {
-            margin-block-start: 0;
-            margin-block-end: 3em;
-            @include font-standard;
-            color: var(--color-gray-700);
-        }   
+        .brands {
+            display: flex;
+            flex-direction: column;
+            justify-content: start;
+            max-width: 30em;
 
-        a {
-            @include shadow-theme;
-            width: fit-content;
-            text-decoration: none;
         }
     }
-    
-
-    
 }

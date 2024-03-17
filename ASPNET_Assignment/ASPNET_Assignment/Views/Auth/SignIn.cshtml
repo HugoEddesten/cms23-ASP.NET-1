@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Sign in";
+}
+
+<section class="signin">
+    <div class="container">
+        <h1>
+            Welcome Back
+        </h1>
+        <p>Don't have an account yet? <a asp-controller="Auth" asp-action="SignUp">Sign up here.</a></p>
+        
+        <form method="post" asp-controller="Auth" asp-action="SignUp">
+
+        </form>
+    </div>
+
+</section>
