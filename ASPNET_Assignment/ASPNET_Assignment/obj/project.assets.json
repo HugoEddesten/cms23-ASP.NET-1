@@ -166,23 +166,39 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\Andro\\.nuget\\packages\\": {},
+=======
+    "C:\\Users\\hugoe\\.nuget\\packages\\": {},
+>>>>>>> 742a8ccdd3cb7d2e8d836fe566e6bfda702812be
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\ASPNET_Assignment.csproj",
       "projectName": "ASPNET_Assignment",
       "projectPath": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\ASPNET_Assignment.csproj",
       "packagesPath": "C:\\Users\\Andro\\.nuget\\packages\\",
       "outputPath": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\obj\\",
+=======
+      "projectUniqueName": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\ASPNET_Assignment.csproj",
+      "projectName": "ASPNET_Assignment",
+      "projectPath": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\ASPNET_Assignment.csproj",
+      "packagesPath": "C:\\Users\\hugoe\\.nuget\\packages\\",
+      "outputPath": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\obj\\",
+>>>>>>> 742a8ccdd3cb7d2e8d836fe566e6bfda702812be
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
+<<<<<<< HEAD
         "C:\\Users\\Andro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+        "C:\\Users\\hugoe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 742a8ccdd3cb7d2e8d836fe566e6bfda702812be
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

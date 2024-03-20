@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UF3x8Ndq2bB9r4/20EIyiZnqOuG0H5pkIVz29h+nI+A=",
+  "Hash": "7kJHwXi7Lg0T9TR9CSp9LoaXrbI8G22gs8JSpzrclDc=",
   "Source": "ASPNET_Assignment",
   "BasePath": "_content/ASPNET_Assignment",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ASPNET_Assignment\\wwwroot",
       "Source": "ASPNET_Assignment",
-      "ContentRoot": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
+      "ContentRoot": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
       "BasePath": "_content/ASPNET_Assignment",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\_components.scss",
+      "Identity": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\_components.scss",
       "SourceId": "ASPNET_Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
+      "ContentRoot": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
       "BasePath": "_content/ASPNET_Assignment",
       "RelativePath": "css/scss/_components.scss",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\_components.scss"
     },
     {
-      "Identity": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\_cores.scss",
+      "Identity": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\_cores.scss",
       "SourceId": "ASPNET_Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
+      "ContentRoot": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
       "BasePath": "_content/ASPNET_Assignment",
       "RelativePath": "css/scss/_cores.scss",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\_cores.scss"
     },
     {
-      "Identity": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\_sections.scss",
+      "Identity": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\_sections.scss",
       "SourceId": "ASPNET_Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
+      "ContentRoot": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
       "BasePath": "_content/ASPNET_Assignment",
       "RelativePath": "css/scss/_sections.scss",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\_sections.scss"
     },
     {
-      "Identity": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\components\\_buttons.scss",
+      "Identity": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\components\\_buttons.scss",
       "SourceId": "ASPNET_Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
+      "ContentRoot": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
       "BasePath": "_content/ASPNET_Assignment",
       "RelativePath": "css/scss/components/_buttons.scss",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\components\\_buttons.scss"
     },
     {
-      "Identity": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\components\\_container.scss",
+      "Identity": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\components\\_container.scss",
       "SourceId": "ASPNET_Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
+      "ContentRoot": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
       "BasePath": "_content/ASPNET_Assignment",
       "RelativePath": "css/scss/components/_container.scss",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\components\\_container.scss"
     },
     {
-      "Identity": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\components\\_forms.scss",
+      "Identity": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\components\\_forms.scss",
       "SourceId": "ASPNET_Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
+      "ContentRoot": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
       "BasePath": "_content/ASPNET_Assignment",
       "RelativePath": "css/scss/components/_forms.scss",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\components\\_forms.scss"
     },
     {
-      "Identity": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\cores\\_colors.scss",
+      "Identity": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\cores\\_colors.scss",
       "SourceId": "ASPNET_Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
+      "ContentRoot": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
       "BasePath": "_content/ASPNET_Assignment",
       "RelativePath": "css/scss/cores/_colors.scss",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\cores\\_colors.scss"
     },
     {
-      "Identity": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\cores\\_common.scss",
+      "Identity": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\cores\\_common.scss",
       "SourceId": "ASPNET_Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
+      "ContentRoot": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
       "BasePath": "_content/ASPNET_Assignment",
       "RelativePath": "css/scss/cores/_common.scss",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\cores\\_common.scss"
     },
     {
-      "Identity": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\cores\\_fonts.scss",
+      "Identity": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\cores\\_fonts.scss",
       "SourceId": "ASPNET_Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
+      "ContentRoot": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
       "BasePath": "_content/ASPNET_Assignment",
       "RelativePath": "css/scss/cores/_fonts.scss",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\cores\\_fonts.scss"
     },
     {
-      "Identity": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\cores\\_media.scss",
+      "Identity": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\cores\\_media.scss",
       "SourceId": "ASPNET_Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
+      "ContentRoot": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
       "BasePath": "_content/ASPNET_Assignment",
       "RelativePath": "css/scss/cores/_media.scss",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\cores\\_media.scss"
     },
     {
-      "Identity": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\sections\\_footer.scss",
+      "Identity": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\sections\\_footer.scss",
       "SourceId": "ASPNET_Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
+      "ContentRoot": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
       "BasePath": "_content/ASPNET_Assignment",
       "RelativePath": "css/scss/sections/_footer.scss",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\sections\\_footer.scss"
     },
     {
-      "Identity": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\sections\\_header.scss",
+      "Identity": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\sections\\_header.scss",
       "SourceId": "ASPNET_Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
+      "ContentRoot": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
       "BasePath": "_content/ASPNET_Assignment",
       "RelativePath": "css/scss/sections/_header.scss",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\sections\\_header.scss"
     },
     {
-      "Identity": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\sections\\_showcase.scss",
+      "Identity": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\sections\\_showcase.scss",
       "SourceId": "ASPNET_Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
+      "ContentRoot": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
       "BasePath": "_content/ASPNET_Assignment",
       "RelativePath": "css/scss/sections/_showcase.scss",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\sections\\_showcase.scss"
     },
     {
-      "Identity": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\sections\\_signup.scss",
+      "Identity": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\sections\\_signup.scss",
       "SourceId": "ASPNET_Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
+      "ContentRoot": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
       "BasePath": "_content/ASPNET_Assignment",
       "RelativePath": "css/scss/sections/_signup.scss",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\sections\\_signup.scss"
     },
     {
-      "Identity": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\sections\\_tool-showcase.scss",
+      "Identity": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\sections\\_tool-showcase.scss",
       "SourceId": "ASPNET_Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
+      "ContentRoot": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
       "BasePath": "_content/ASPNET_Assignment",
       "RelativePath": "css/scss/sections/_tool-showcase.scss",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\sections\\_tool-showcase.scss"
     },
     {
-      "Identity": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\site.css",
       "SourceId": "ASPNET_Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
+      "ContentRoot": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
       "BasePath": "_content/ASPNET_Assignment",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\site.min.css",
+      "Identity": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\site.min.css",
       "SourceId": "ASPNET_Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
+      "ContentRoot": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
       "BasePath": "_content/ASPNET_Assignment",
       "RelativePath": "css/site.min.css",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.min.css"
     },
     {
-      "Identity": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\site.scss",
+      "Identity": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\site.scss",
       "SourceId": "ASPNET_Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
+      "ContentRoot": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
       "BasePath": "_content/ASPNET_Assignment",
       "RelativePath": "css/site.scss",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.scss"
     },
     {
-      "Identity": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\customer-example-logos.svg",
+      "Identity": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\customer-example-logos.svg",
       "SourceId": "ASPNET_Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
+      "ContentRoot": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
       "BasePath": "_content/ASPNET_Assignment",
       "RelativePath": "images/customer-example-logos.svg",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\images\\customer-example-logos.svg"
     },
     {
-      "Identity": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\logo.svg",
+      "Identity": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\logo.svg",
       "SourceId": "ASPNET_Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
+      "ContentRoot": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
       "BasePath": "_content/ASPNET_Assignment",
       "RelativePath": "images/logo.svg",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo.svg"
     },
     {
-      "Identity": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\screen-slider\\Dark-screen.svg",
+      "Identity": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\screen-slider\\Dark-screen.svg",
       "SourceId": "ASPNET_Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
+      "ContentRoot": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
       "BasePath": "_content/ASPNET_Assignment",
       "RelativePath": "images/screen-slider/Dark-screen.svg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\images\\screen-slider\\Dark-screen.svg"
     },
     {
-      "Identity": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\screen-slider\\Light-screen.svg",
+      "Identity": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\screen-slider\\Light-screen.svg",
       "SourceId": "ASPNET_Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
+      "ContentRoot": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
       "BasePath": "_content/ASPNET_Assignment",
       "RelativePath": "images/screen-slider/Light-screen.svg",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\images\\screen-slider\\Light-screen.svg"
     },
     {
-      "Identity": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\showcase-image.svg",
+      "Identity": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\showcase-image.svg",
       "SourceId": "ASPNET_Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
+      "ContentRoot": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
       "BasePath": "_content/ASPNET_Assignment",
       "RelativePath": "images/showcase-image.svg",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\images\\showcase-image.svg"
     },
     {
-      "Identity": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\social-medias\\bxl-facebook-square.svg",
+      "Identity": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\social-medias\\bxl-facebook-square.svg",
       "SourceId": "ASPNET_Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
+      "ContentRoot": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
       "BasePath": "_content/ASPNET_Assignment",
       "RelativePath": "images/social-medias/bxl-facebook-square.svg",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\images\\social-medias\\bxl-facebook-square.svg"
     },
     {
-      "Identity": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\social-medias\\bxl-instagram-alt.svg",
+      "Identity": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\social-medias\\bxl-instagram-alt.svg",
       "SourceId": "ASPNET_Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
+      "ContentRoot": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
       "BasePath": "_content/ASPNET_Assignment",
       "RelativePath": "images/social-medias/bxl-instagram-alt.svg",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\images\\social-medias\\bxl-instagram-alt.svg"
     },
     {
-      "Identity": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\social-medias\\bxl-twitter.svg",
+      "Identity": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\social-medias\\bxl-twitter.svg",
       "SourceId": "ASPNET_Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
+      "ContentRoot": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
       "BasePath": "_content/ASPNET_Assignment",
       "RelativePath": "images/social-medias/bxl-twitter.svg",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\images\\social-medias\\bxl-twitter.svg"
     },
     {
-      "Identity": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\social-medias\\bxl-youtube.svg",
+      "Identity": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\social-medias\\bxl-youtube.svg",
       "SourceId": "ASPNET_Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
+      "ContentRoot": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
       "BasePath": "_content/ASPNET_Assignment",
       "RelativePath": "images/social-medias/bxl-youtube.svg",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\images\\social-medias\\bxl-youtube.svg"
     },
     {
-      "Identity": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\tool-showcase\\add-group.svg",
+      "Identity": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\tool-showcase\\add-group.svg",
       "SourceId": "ASPNET_Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
+      "ContentRoot": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
       "BasePath": "_content/ASPNET_Assignment",
       "RelativePath": "images/tool-showcase/add-group.svg",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\images\\tool-showcase\\add-group.svg"
     },
     {
-      "Identity": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\tool-showcase\\bell.svg",
+      "Identity": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\tool-showcase\\bell.svg",
       "SourceId": "ASPNET_Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
+      "ContentRoot": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
       "BasePath": "_content/ASPNET_Assignment",
       "RelativePath": "images/tool-showcase/bell.svg",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\images\\tool-showcase\\bell.svg"
     },
     {
-      "Identity": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\tool-showcase\\chat.svg",
+      "Identity": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\tool-showcase\\chat.svg",
       "SourceId": "ASPNET_Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
+      "ContentRoot": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
       "BasePath": "_content/ASPNET_Assignment",
       "RelativePath": "images/tool-showcase/chat.svg",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\images\\tool-showcase\\chat.svg"
     },
     {
-      "Identity": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\tool-showcase\\presentation.svg",
+      "Identity": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\tool-showcase\\presentation.svg",
       "SourceId": "ASPNET_Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
+      "ContentRoot": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
       "BasePath": "_content/ASPNET_Assignment",
       "RelativePath": "images/tool-showcase/presentation.svg",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\images\\tool-showcase\\presentation.svg"
     },
     {
-      "Identity": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\tool-showcase\\shield.svg",
+      "Identity": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\tool-showcase\\shield.svg",
       "SourceId": "ASPNET_Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
+      "ContentRoot": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
       "BasePath": "_content/ASPNET_Assignment",
       "RelativePath": "images/tool-showcase/shield.svg",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\images\\tool-showcase\\shield.svg"
     },
     {
-      "Identity": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\tool-showcase\\test.svg",
+      "Identity": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\tool-showcase\\test.svg",
       "SourceId": "ASPNET_Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
+      "ContentRoot": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
       "BasePath": "_content/ASPNET_Assignment",
       "RelativePath": "images/tool-showcase/test.svg",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\images\\tool-showcase\\test.svg"
     },
     {
-      "Identity": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\js\\site.js",
       "SourceId": "ASPNET_Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
+      "ContentRoot": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\",
       "BasePath": "_content/ASPNET_Assignment",
       "RelativePath": "js/site.js",
       "AssetKind": "All",

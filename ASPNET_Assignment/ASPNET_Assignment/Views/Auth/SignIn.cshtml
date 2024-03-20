@@ -1,15 +1,38 @@
-﻿@{
+﻿@model SignInViewModel
+@{
     ViewData["Title"] = "Sign in";
 }
 
-<section class="signin">
+<section class="signup">
     <div class="container">
         <h1>
             Welcome Back
         </h1>
         <p>Don't have an account yet? <a asp-controller="Auth" asp-action="SignUp">Sign up here.</a></p>
         
-        <form method="post" asp-controller="Auth" asp-action="SignUp">
+        <form method="post" asp-controller="Auth" asp-action="SignIn">
+
+            <div class="email input-group">
+                <label asp-for="Email"></label>
+                <input asp-for="Email" />
+                <span asp-validation-for="Email"></span>
+            </div>
+
+            <div class="password input-group">
+                <label asp-for="Password"></label>
+                <input id="password" asp-for="Password" />
+                <span asp-validation-for="Password"></span>
+            </div>
+
+            <div class="checkbox-group">
+                <div class="input-group">
+                    <input asp-for="RememberMe" />
+                    <label asp-for="RememberMe">Remember me</label>
+                    <span asp-validation-for="RememberMe"></span>
+                </div>
+            </div>
+
+            <button class="btn btn-theme" type="submit">Sign in</button>
 
         </form>
     </div>

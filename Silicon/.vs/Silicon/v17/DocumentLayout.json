@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Nackademin\\cms23-ASP.NET-1\\Silicon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC1D402-8C29-4D5E-A325-353335F04DAF}|WebApp.IndividualAccounts\\WebApp.IndividualAccounts.csproj|c:\\nackademin\\cms23-asp.net-1\\silicon\\webapp.individualaccounts\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC1D402-8C29-4D5E-A325-353335F04DAF}|WebApp.IndividualAccounts\\WebApp.IndividualAccounts.csproj|solutionrelative:webapp.individualaccounts\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC1D402-8C29-4D5E-A325-353335F04DAF}|WebApp.IndividualAccounts\\WebApp.IndividualAccounts.csproj|c:\\nackademin\\cms23-asp.net-1\\silicon\\webapp.individualaccounts\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC1D402-8C29-4D5E-A325-353335F04DAF}|WebApp.IndividualAccounts\\WebApp.IndividualAccounts.csproj|solutionrelative:webapp.individualaccounts\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC1D402-8C29-4D5E-A325-353335F04DAF}|WebApp.IndividualAccounts\\WebApp.IndividualAccounts.csproj|c:\\nackademin\\cms23-asp.net-1\\silicon\\webapp.individualaccounts\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC1D402-8C29-4D5E-A325-353335F04DAF}|WebApp.IndividualAccounts\\WebApp.IndividualAccounts.csproj|solutionrelative:webapp.individualaccounts\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC1D402-8C29-4D5E-A325-353335F04DAF}|WebApp.IndividualAccounts\\WebApp.IndividualAccounts.csproj|c:\\nackademin\\cms23-asp.net-1\\silicon\\webapp.individualaccounts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC1D402-8C29-4D5E-A325-353335F04DAF}|WebApp.IndividualAccounts\\WebApp.IndividualAccounts.csproj|solutionrelative:webapp.individualaccounts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC1D402-8C29-4D5E-A325-353335F04DAF}|WebApp.IndividualAccounts\\WebApp.IndividualAccounts.csproj|c:\\nackademin\\cms23-asp.net-1\\silicon\\webapp.individualaccounts\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC1D402-8C29-4D5E-A325-353335F04DAF}|WebApp.IndividualAccounts\\WebApp.IndividualAccounts.csproj|solutionrelative:webapp.individualaccounts\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC1D402-8C29-4D5E-A325-353335F04DAF}|WebApp.IndividualAccounts\\WebApp.IndividualAccounts.csproj|c:\\nackademin\\cms23-asp.net-1\\silicon\\webapp.individualaccounts\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEC1D402-8C29-4D5E-A325-353335F04DAF}|WebApp.IndividualAccounts\\WebApp.IndividualAccounts.csproj|solutionrelative:webapp.individualaccounts\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC1D402-8C29-4D5E-A325-353335F04DAF}|WebApp.IndividualAccounts\\WebApp.IndividualAccounts.csproj|c:\\nackademin\\cms23-asp.net-1\\silicon\\webapp.individualaccounts\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEC1D402-8C29-4D5E-A325-353335F04DAF}|WebApp.IndividualAccounts\\WebApp.IndividualAccounts.csproj|solutionrelative:webapp.individualaccounts\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC1D402-8C29-4D5E-A325-353335F04DAF}|WebApp.IndividualAccounts\\WebApp.IndividualAccounts.csproj|c:\\nackademin\\cms23-asp.net-1\\silicon\\webapp.individualaccounts\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEC1D402-8C29-4D5E-A325-353335F04DAF}|WebApp.IndividualAccounts\\WebApp.IndividualAccounts.csproj|solutionrelative:webapp.individualaccounts\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC1D402-8C29-4D5E-A325-353335F04DAF}|WebApp.IndividualAccounts\\WebApp.IndividualAccounts.csproj|c:\\nackademin\\cms23-asp.net-1\\silicon\\webapp.individualaccounts\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FEC1D402-8C29-4D5E-A325-353335F04DAF}|WebApp.IndividualAccounts\\WebApp.IndividualAccounts.csproj|solutionrelative:webapp.individualaccounts\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC1D402-8C29-4D5E-A325-353335F04DAF}|WebApp.IndividualAccounts\\WebApp.IndividualAccounts.csproj|c:\\nackademin\\cms23-asp.net-1\\silicon\\webapp.individualaccounts\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEC1D402-8C29-4D5E-A325-353335F04DAF}|WebApp.IndividualAccounts\\WebApp.IndividualAccounts.csproj|solutionrelative:webapp.individualaccounts\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC1D402-8C29-4D5E-A325-353335F04DAF}|WebApp.IndividualAccounts\\WebApp.IndividualAccounts.csproj|c:\\nackademin\\cms23-asp.net-1\\silicon\\webapp.individualaccounts\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEC1D402-8C29-4D5E-A325-353335F04DAF}|WebApp.IndividualAccounts\\WebApp.IndividualAccounts.csproj|solutionrelative:webapp.individualaccounts\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC1D402-8C29-4D5E-A325-353335F04DAF}|WebApp.IndividualAccounts\\WebApp.IndividualAccounts.csproj|c:\\nackademin\\cms23-asp.net-1\\silicon\\webapp.individualaccounts\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEC1D402-8C29-4D5E-A325-353335F04DAF}|WebApp.IndividualAccounts\\WebApp.IndividualAccounts.csproj|solutionrelative:webapp.individualaccounts\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49BA6D20-8108-469C-9081-CAD2043E4931}|WebApp.WindowsAuthentication\\WebApp.WindowsAuthentication.csproj|c:\\nackademin\\cms23-asp.net-1\\silicon\\webapp.windowsauthentication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49BA6D20-8108-469C-9081-CAD2043E4931}|WebApp.WindowsAuthentication\\WebApp.WindowsAuthentication.csproj|solutionrelative:webapp.windowsauthentication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49BA6D20-8108-469C-9081-CAD2043E4931}|WebApp.WindowsAuthentication\\WebApp.WindowsAuthentication.csproj|c:\\nackademin\\cms23-asp.net-1\\silicon\\webapp.windowsauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49BA6D20-8108-469C-9081-CAD2043E4931}|WebApp.WindowsAuthentication\\WebApp.WindowsAuthentication.csproj|solutionrelative:webapp.windowsauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Nackademin\\cms23-ASP.NET-1\\Silicon\\WebApp.IndividualAccounts\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApp.IndividualAccounts\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Nackademin\\cms23-ASP.NET-1\\Silicon\\WebApp.IndividualAccounts\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "WebApp.IndividualAccounts\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAA0wEIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T12:16:30.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Nackademin\\cms23-ASP.NET-1\\Silicon\\WebApp.IndividualAccounts\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "WebApp.IndividualAccounts\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Nackademin\\cms23-ASP.NET-1\\Silicon\\WebApp.IndividualAccounts\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "WebApp.IndividualAccounts\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T09:51:34.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Nackademin\\cms23-ASP.NET-1\\Silicon\\WebApp.IndividualAccounts\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "WebApp.IndividualAccounts\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Nackademin\\cms23-ASP.NET-1\\Silicon\\WebApp.IndividualAccounts\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "WebApp.IndividualAccounts\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T09:38:13.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Nackademin\\cms23-ASP.NET-1\\Silicon\\WebApp.IndividualAccounts\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApp.IndividualAccounts\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Nackademin\\cms23-ASP.NET-1\\Silicon\\WebApp.IndividualAccounts\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "WebApp.IndividualAccounts\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T09:38:10.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Nackademin\\cms23-ASP.NET-1\\Silicon\\WebApp.IndividualAccounts\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "WebApp.IndividualAccounts\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Nackademin\\cms23-ASP.NET-1\\Silicon\\WebApp.IndividualAccounts\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "WebApp.IndividualAccounts\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-19T09:37:59.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Nackademin\\cms23-ASP.NET-1\\Silicon\\WebApp.IndividualAccounts\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "WebApp.IndividualAccounts\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Nackademin\\cms23-ASP.NET-1\\Silicon\\WebApp.IndividualAccounts\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "WebApp.IndividualAccounts\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T09:26:47.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Nackademin\\cms23-ASP.NET-1\\Silicon\\WebApp.IndividualAccounts\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp.IndividualAccounts\\Program.cs",
+              "ToolTip": "C:\\Nackademin\\cms23-ASP.NET-1\\Silicon\\WebApp.IndividualAccounts\\Program.cs",
+              "RelativeToolTip": "WebApp.IndividualAccounts\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T08:26:11.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Nackademin\\cms23-ASP.NET-1\\Silicon\\WebApp.IndividualAccounts\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebApp.IndividualAccounts\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Nackademin\\cms23-ASP.NET-1\\Silicon\\WebApp.IndividualAccounts\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebApp.IndividualAccounts\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T08:28:50.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Nackademin\\cms23-ASP.NET-1\\Silicon\\WebApp.IndividualAccounts\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApp.IndividualAccounts\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Nackademin\\cms23-ASP.NET-1\\Silicon\\WebApp.IndividualAccounts\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "WebApp.IndividualAccounts\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAiwKgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T09:39:44.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Nackademin\\cms23-ASP.NET-1\\Silicon\\WebApp.IndividualAccounts\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApp.IndividualAccounts\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Nackademin\\cms23-ASP.NET-1\\Silicon\\WebApp.IndividualAccounts\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApp.IndividualAccounts\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T09:44:36.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Nackademin\\cms23-ASP.NET-1\\Silicon\\WebApp.IndividualAccounts\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApp.IndividualAccounts\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Nackademin\\cms23-ASP.NET-1\\Silicon\\WebApp.IndividualAccounts\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApp.IndividualAccounts\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T09:26:46.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Nackademin\\cms23-ASP.NET-1\\Silicon\\WebApp.IndividualAccounts\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApp.IndividualAccounts\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Nackademin\\cms23-ASP.NET-1\\Silicon\\WebApp.IndividualAccounts\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApp.IndividualAccounts\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T08:29:32.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Nackademin\\cms23-ASP.NET-1\\Silicon\\WebApp.WindowsAuthentication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApp.WindowsAuthentication\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Nackademin\\cms23-ASP.NET-1\\Silicon\\WebApp.WindowsAuthentication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApp.WindowsAuthentication\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T08:17:48.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Nackademin\\cms23-ASP.NET-1\\Silicon\\WebApp.WindowsAuthentication\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp.WindowsAuthentication\\Program.cs",
+              "ToolTip": "C:\\Nackademin\\cms23-ASP.NET-1\\Silicon\\WebApp.WindowsAuthentication\\Program.cs",
+              "RelativeToolTip": "WebApp.WindowsAuthentication\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T08:16:08.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

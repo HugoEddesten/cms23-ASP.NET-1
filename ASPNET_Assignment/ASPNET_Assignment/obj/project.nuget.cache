@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "P3O+7B9Y1bTh0AIFxt6kEVsIo41Mu4YHNg95iqUrPEo73luYq8kJOID+mlhi/E9dxMPsYKG3G+rjWKWvYQ5tXg==",
   "success": true,
   "projectFilePath": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\ASPNET_Assignment.csproj",
@@ -8,6 +9,16 @@
     "C:\\Users\\Andro\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\Andro\\.nuget\\packages\\microsoft.net.http.headers\\8.0.3\\microsoft.net.http.headers.8.0.3.nupkg.sha512",
     "C:\\Users\\Andro\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512"
+=======
+  "dgSpecHash": "pfVJkVPmIqyqCXLVd8vIlGon3oEMi5oH9ILDuR6VIFZLe4u8AO2d1wQ1DJ/gFZ9F2YRpHK3tSqCL9dw8jb952g==",
+  "success": true,
+  "projectFilePath": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\ASPNET_Assignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hugoe\\.nuget\\packages\\microsoft.aspnetcore.webutilities\\8.0.3\\microsoft.aspnetcore.webutilities.8.0.3.nupkg.sha512",
+    "C:\\Users\\hugoe\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\hugoe\\.nuget\\packages\\microsoft.net.http.headers\\8.0.3\\microsoft.net.http.headers.8.0.3.nupkg.sha512",
+    "C:\\Users\\hugoe\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512"
+>>>>>>> 742a8ccdd3cb7d2e8d836fe566e6bfda702812be
   ],
   "logs": []
 }
