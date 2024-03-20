@@ -9,35 +9,35 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ASPNET_Assignment
 build_property.RootNamespace = ASPNET_Assignment
-build_property.ProjectDir = D:\Nackademin\cms23-ASP.NET-1\ASPNET_Assignment\ASPNET_Assignment\
+build_property.ProjectDir = C:\Nackademin\cms23-ASP.NET-1\ASPNET_Assignment\ASPNET_Assignment\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Nackademin\cms23-ASP.NET-1\ASPNET_Assignment\ASPNET_Assignment
+build_property.MSBuildProjectDirectory = C:\Nackademin\cms23-ASP.NET-1\ASPNET_Assignment\ASPNET_Assignment
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Nackademin/cms23-ASP.NET-1/ASPNET_Assignment/ASPNET_Assignment/Views/Auth/SignIn.cshtml]
+[C:/Nackademin/cms23-ASP.NET-1/ASPNET_Assignment/ASPNET_Assignment/Views/Auth/SignIn.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxTaWduSW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Nackademin/cms23-ASP.NET-1/ASPNET_Assignment/ASPNET_Assignment/Views/Auth/SignUp.cshtml]
+[C:/Nackademin/cms23-ASP.NET-1/ASPNET_Assignment/ASPNET_Assignment/Views/Auth/SignUp.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxTaWduVXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Nackademin/cms23-ASP.NET-1/ASPNET_Assignment/ASPNET_Assignment/Views/Default/Home.cshtml]
+[C:/Nackademin/cms23-ASP.NET-1/ASPNET_Assignment/ASPNET_Assignment/Views/Default/Home.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxIb21lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Nackademin/cms23-ASP.NET-1/ASPNET_Assignment/ASPNET_Assignment/Views/Shared/_Layout.cshtml]
+[C:/Nackademin/cms23-ASP.NET-1/ASPNET_Assignment/ASPNET_Assignment/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Nackademin/cms23-ASP.NET-1/ASPNET_Assignment/ASPNET_Assignment/Views/_ViewImports.cshtml]
+[C:/Nackademin/cms23-ASP.NET-1/ASPNET_Assignment/ASPNET_Assignment/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Nackademin/cms23-ASP.NET-1/ASPNET_Assignment/ASPNET_Assignment/Views/_ViewStart.cshtml]
+[C:/Nackademin/cms23-ASP.NET-1/ASPNET_Assignment/ASPNET_Assignment/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

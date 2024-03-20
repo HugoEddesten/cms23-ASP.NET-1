@@ -28,7 +28,6 @@
 
             .input-group {
                 @include form-standard;
-                
             }
 
             .firstname {
@@ -55,17 +54,26 @@
                 grid-area: checkbox;
 
                 .input-group {
-                    display: flex;
-                    flex-direction: row;
+                    display: grid;
+                    grid-template-columns: auto 1fr;
+                    grid-template-areas: "input label" "span span";
 
                     input {
+                        grid-area: input;
                         transform: scale(1.5);
                         margin-right: 10px;
+                        box-shadow: none;
+
                     }
 
                     label {
+                        grid-area: label;
                         @include font-standard;
                         color: var(--color-gray-700);
+                    }
+
+                    span {
+                        grid-area: span;
                     }
                 }
             }

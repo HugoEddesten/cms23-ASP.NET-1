@@ -25,6 +25,11 @@ inputs.forEach(input => {
                 case 'ConfirmPassword':
                     passwordConfirmationValidation(e)
                     break
+
+                case 'I agree to the Terms & Conditions.':
+                    console.log("hej");
+                    termsAndConditionsValidation(e)
+                    break
             }
         })
     }
@@ -80,7 +85,6 @@ const passwordValidation = (e) => {
 
     if (e.target.value.length > 0) {
         if (e.target.value.length < 8) {
-            console.log(e.target.dataset);
             handleValidationOutput(false, e, e.target.dataset.valMinlength);
         } else {
 
@@ -96,12 +100,15 @@ const passwordValidation = (e) => {
 
 const passwordConfirmationValidation = (e) => {
     
-    let password = document.querySelectorAll('div.password');
-    console.log(e);
+    let password = document.getElementById('password').value;
     if (e.target.value.length > 0) {
-        console.log("hej");
+        handleValidationOutput(password == e.target.value, e, e.target.dataset.valEqualto);
     }
     else {
         handleValidationOutput(false, e, e.target.dataset.valRequired)
     }
+}
+
+const termsAndConditionsValidation = (e) => {
+    handleValidationOutput(e.target.value, e, e.target.dataset.valRequired);
 }

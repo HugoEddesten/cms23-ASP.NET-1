@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebApp.WindowsAuthentication.props" />
+</Project>

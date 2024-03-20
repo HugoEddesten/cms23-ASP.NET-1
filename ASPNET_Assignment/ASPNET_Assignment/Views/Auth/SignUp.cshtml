@@ -31,7 +31,7 @@
 
             <div class="password input-group">
                 <label asp-for="Password"></label>
-                <input asp-for="Password" />
+                <input id="password" asp-for="Password" />
                 <span asp-validation-for="Password"></span>
             </div>
 
@@ -44,9 +44,9 @@
             <div class="checkbox-group">
                 <div class="input-group">
                     <input asp-for="TermsAndConditions" />
-                    <label asp-for="TermsAndConditions">I agree to the <a asp-controller="About" asp-action="Terms">Terms</a> and <a asp-controller="About" asp-action="Conditions">Conditions</a></label>
                     <span asp-validation-for="TermsAndConditions"></span>
-
+                    <label asp-for="TermsAndConditions">I agree to the <a asp-controller="About" asp-action="Terms">Terms</a> and <a asp-controller="About" asp-action="Conditions">Conditions</a></label>
+                    
                 </div>
                 
             </div>

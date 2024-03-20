@@ -567,19 +567,26 @@ footer .container p {
   grid-area: checkbox;
 }
 .signup .container form .checkbox-group .input-group {
-  display: flex;
-  flex-direction: row;
+  display: grid;
+  grid-template-columns: auto 1fr;
+  grid-template-areas: "input label" "span span";
 }
 .signup .container form .checkbox-group .input-group input {
+  grid-area: input;
   transform: scale(1.5);
   margin-right: 10px;
+  box-shadow: none;
 }
 .signup .container form .checkbox-group .input-group label {
+  grid-area: label;
   font-family: "Manrope", "sans-serif";
   line-height: 1.5;
   font-size: 16px;
   font-weight: 400;
   color: var(--color-gray-700);
+}
+.signup .container form .checkbox-group .input-group span {
+  grid-area: span;
 }
 .signup .container form button {
   box-shadow: 0 8px 18px -8px var(--color-theme-o);
