@@ -1,0 +1,83 @@
+header {
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+    .container {
+        display: grid;
+        grid-template-columns: 1fr auto;
+        grid-template-areas: "logo menu";
+
+        
+        padding-left: 12px;
+
+        gap: 40px;
+        align-items: center;
+        justify-content: center;
+        background-color: var(--color-white);
+
+        @include lg {
+            grid-template-columns: auto 1fr auto;
+            grid-template-areas: "logo nav account";
+        }
+
+        .logo-link {
+            grid-area: "logo";
+        }
+
+        nav {
+            display: none;
+            grid-area: "nav";
+            
+            @include lg {
+                display: block;
+            }
+            .nav-link {
+                @include font-navigation;
+                margin-right: 15px;
+            }
+        }
+
+        .account-buttons {
+            display: none;
+            gap: 20px;
+            grid-area: "account";
+            
+            
+            @include lg {
+                display: flex;
+                
+                
+            }
+
+            
+        }
+
+        .menu-icon {
+            grid-area: "menu";
+            border: 1px solid var(--color-gray-200);
+            border-radius: 4px;
+            background-color: var(--color-gray-200);
+            
+            padding: 5px 10px;
+            margin-right: 20px;
+
+            transform: scale(2);
+            
+
+            &:hover {
+                cursor: pointer;
+                border: 1px solid var(--color-gray-900);
+            }
+
+            @include lg {
+                display: none;
+            }
+        }
+        
+    }
+
+    
+
+    
+
+}

@@ -1,0 +1,15 @@
+D:\nackademin\cms23-ASP.NET-1\ASPNET_Identity\WebAppIdentity\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\nackademin\cms23-ASP.NET-1\ASPNET_Identity\WebAppIdentity\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+D:\nackademin\cms23-ASP.NET-1\ASPNET_Identity\WebAppIdentity\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\nackademin\cms23-ASP.NET-1\ASPNET_Identity\WebAppIdentity\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\nackademin\cms23-ASP.NET-1\ASPNET_Identity\WebAppIdentity\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\nackademin\cms23-ASP.NET-1\ASPNET_Identity\WebAppIdentity\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\nackademin\cms23-ASP.NET-1\ASPNET_Identity\WebAppIdentity\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\nackademin\cms23-ASP.NET-1\ASPNET_Identity\WebAppIdentity\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\nackademin\cms23-ASP.NET-1\ASPNET_Identity\WebAppIdentity\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\nackademin\cms23-ASP.NET-1\ASPNET_Identity\WebAppIdentity\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+D:\nackademin\cms23-ASP.NET-1\ASPNET_Identity\WebAppIdentity\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\nackademin\cms23-ASP.NET-1\ASPNET_Identity\WebAppIdentity\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\nackademin\cms23-ASP.NET-1\ASPNET_Identity\WebAppIdentity\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\nackademin\cms23-ASP.NET-1\ASPNET_Identity\WebAppIdentity\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+D:\nackademin\cms23-ASP.NET-1\ASPNET_Identity\WebAppIdentity\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

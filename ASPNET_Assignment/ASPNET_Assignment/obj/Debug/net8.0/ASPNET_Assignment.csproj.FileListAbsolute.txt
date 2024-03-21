@@ -63,3 +63,4 @@ C:\Nackademin\cms23-ASP.NET-1\ASPNET_Assignment\ASPNET_Assignment\obj\Debug\net8
 C:\Nackademin\cms23-ASP.NET-1\ASPNET_Assignment\ASPNET_Assignment\obj\Debug\net8.0\ASPNET_Assignment.pdb
 C:\Nackademin\cms23-ASP.NET-1\ASPNET_Assignment\ASPNET_Assignment\obj\Debug\net8.0\ASPNET_Assignment.genruntimeconfig.cache
 C:\Nackademin\cms23-ASP.NET-1\ASPNET_Assignment\ASPNET_Assignment\obj\Debug\net8.0\ref\ASPNET_Assignment.dll
+D:\nackademin\cms23-ASP.NET-1\ASPNET_Assignment\ASPNET_Assignment\obj\Debug\net8.0\ASPNET_Assignment.csproj.AssemblyReference.cache

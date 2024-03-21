@@ -1,85 +1,101 @@
 {
   "Version": 1,
-<<<<<<< HEAD
   "WorkspaceRootPath": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\",
-=======
-  "WorkspaceRootPath": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\",
->>>>>>> 742a8ccdd3cb7d2e8d836fe566e6bfda702812be
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|c:\\nackademin\\cms23-asp.net-1\\aspnet_assignment\\aspnet_assignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|c:\\nackademin\\cms23-asp.net-1\\aspnet_assignment\\aspnet_assignment\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|c:\\nackademin\\cms23-asp.net-1\\aspnet_assignment\\aspnet_assignment\\models\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|solutionrelative:models\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|c:\\nackademin\\cms23-asp.net-1\\aspnet_assignment\\aspnet_assignment\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|solutionrelative:views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|c:\\nackademin\\cms23-asp.net-1\\aspnet_assignment\\aspnet_assignment\\wwwroot\\css\\scss\\sections\\_signup.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
-      "RelativeMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|solutionrelative:wwwroot\\css\\scss\\sections\\_signup.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|c:\\nackademin\\cms23-asp.net-1\\aspnet_assignment\\aspnet_assignment\\wwwroot\\css\\scss\\components\\_forms.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
-      "RelativeMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|solutionrelative:wwwroot\\css\\scss\\components\\_forms.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|c:\\nackademin\\cms23-asp.net-1\\aspnet_assignment\\aspnet_assignment\\views\\auth\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|solutionrelative:views\\auth\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|c:\\nackademin\\cms23-asp.net-1\\aspnet_assignment\\aspnet_assignment\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|c:\\nackademin\\cms23-asp.net-1\\aspnet_assignment\\aspnet_assignment\\models\\signinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|solutionrelative:models\\signinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|c:\\nackademin\\cms23-asp.net-1\\aspnet_assignment\\aspnet_assignment\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|solutionrelative:controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|c:\\nackademin\\cms23-asp.net-1\\aspnet_assignment\\aspnet_assignment\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|c:\\nackademin\\cms23-asp.net-1\\aspnet_assignment\\aspnet_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|d:\\nackademin\\cms23-asp.net-1\\aspnet_assignment\\aspnet_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|c:\\nackademin\\cms23-asp.net-1\\aspnet_assignment\\aspnet_assignment\\views\\default\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|solutionrelative:views\\default\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|c:\\nackademin\\cms23-asp.net-1\\aspnet_assignment\\aspnet_assignment\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|d:\\nackademin\\cms23-asp.net-1\\aspnet_assignment\\aspnet_assignment\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|c:\\nackademin\\cms23-asp.net-1\\aspnet_assignment\\aspnet_assignment\\wwwroot\\css\\scss\\components\\_buttons.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "AbsoluteMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|d:\\nackademin\\cms23-asp.net-1\\aspnet_assignment\\aspnet_assignment\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|d:\\nackademin\\cms23-asp.net-1\\aspnet_assignment\\aspnet_assignment\\views\\default\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|solutionrelative:views\\default\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|d:\\nackademin\\cms23-asp.net-1\\aspnet_assignment\\aspnet_assignment\\wwwroot\\css\\site.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|solutionrelative:wwwroot\\css\\site.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|d:\\nackademin\\cms23-asp.net-1\\aspnet_assignment\\aspnet_assignment\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|d:\\nackademin\\cms23-asp.net-1\\aspnet_assignment\\aspnet_assignment\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|d:\\nackademin\\cms23-asp.net-1\\aspnet_assignment\\aspnet_assignment\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|solutionrelative:views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|d:\\nackademin\\cms23-asp.net-1\\aspnet_assignment\\aspnet_assignment\\views\\auth\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|solutionrelative:views\\auth\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|d:\\nackademin\\cms23-asp.net-1\\aspnet_assignment\\aspnet_assignment\\models\\signinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|solutionrelative:models\\signinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|d:\\nackademin\\cms23-asp.net-1\\aspnet_assignment\\aspnet_assignment\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|d:\\nackademin\\cms23-asp.net-1\\aspnet_assignment\\aspnet_assignment\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|solutionrelative:controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|d:\\nackademin\\cms23-asp.net-1\\aspnet_assignment\\aspnet_assignment\\models\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|solutionrelative:models\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|d:\\nackademin\\cms23-asp.net-1\\aspnet_assignment\\aspnet_assignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|d:\\nackademin\\cms23-asp.net-1\\aspnet_assignment\\aspnet_assignment\\wwwroot\\css\\scss\\sections\\_signup.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|solutionrelative:wwwroot\\css\\scss\\sections\\_signup.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|d:\\nackademin\\cms23-asp.net-1\\aspnet_assignment\\aspnet_assignment\\wwwroot\\css\\scss\\components\\_forms.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|solutionrelative:wwwroot\\css\\scss\\components\\_forms.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|d:\\nackademin\\cms23-asp.net-1\\aspnet_assignment\\aspnet_assignment\\wwwroot\\css\\scss\\components\\_buttons.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
       "RelativeMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|solutionrelative:wwwroot\\css\\scss\\components\\_buttons.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|c:\\nackademin\\cms23-asp.net-1\\aspnet_assignment\\aspnet_assignment\\wwwroot\\css\\scss\\cores\\_colors.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
-      "RelativeMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|solutionrelative:wwwroot\\css\\scss\\cores\\_colors.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|c:\\nackademin\\cms23-asp.net-1\\aspnet_assignment\\aspnet_assignment\\wwwroot\\css\\scss\\cores\\_fonts.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "AbsoluteMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|d:\\nackademin\\cms23-asp.net-1\\aspnet_assignment\\aspnet_assignment\\wwwroot\\css\\scss\\cores\\_fonts.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
       "RelativeMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|solutionrelative:wwwroot\\css\\scss\\cores\\_fonts.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|c:\\nackademin\\cms23-asp.net-1\\aspnet_assignment\\aspnet_assignment\\wwwroot\\css\\scss\\sections\\_tool-showcase.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "AbsoluteMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|d:\\nackademin\\cms23-asp.net-1\\aspnet_assignment\\aspnet_assignment\\wwwroot\\css\\scss\\sections\\_tool-showcase.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
       "RelativeMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|solutionrelative:wwwroot\\css\\scss\\sections\\_tool-showcase.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|c:\\nackademin\\cms23-asp.net-1\\aspnet_assignment\\aspnet_assignment\\wwwroot\\css\\scss\\sections\\_showcase.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "AbsoluteMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|d:\\nackademin\\cms23-asp.net-1\\aspnet_assignment\\aspnet_assignment\\wwwroot\\css\\scss\\_cores.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|solutionrelative:wwwroot\\css\\scss\\_cores.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|d:\\nackademin\\cms23-asp.net-1\\aspnet_assignment\\aspnet_assignment\\wwwroot\\css\\scss\\_components.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|solutionrelative:wwwroot\\css\\scss\\_components.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|d:\\nackademin\\cms23-asp.net-1\\aspnet_assignment\\aspnet_assignment\\wwwroot\\css\\scss\\components\\_container.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|solutionrelative:wwwroot\\css\\scss\\components\\_container.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|d:\\nackademin\\cms23-asp.net-1\\aspnet_assignment\\aspnet_assignment\\wwwroot\\css\\scss\\cores\\_colors.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|solutionrelative:wwwroot\\css\\scss\\cores\\_colors.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|d:\\nackademin\\cms23-asp.net-1\\aspnet_assignment\\aspnet_assignment\\wwwroot\\css\\scss\\sections\\_showcase.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
       "RelativeMoniker": "D:0:0:{FDF9B9A5-F283-43D5-A9B6-9F8F15E1326B}|ASPNET_Assignment.csproj|solutionrelative:wwwroot\\css\\scss\\sections\\_showcase.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
     }
   ],
@@ -90,53 +106,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 208,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-<<<<<<< HEAD
               "DocumentIndex": 0,
-              "Title": "site.js",
-              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
-              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "wwwroot\\js\\site.js",
-              "ViewState": "AQIAADwAAAAAAAAAAAAAAEUAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-03-16T16:45:32.341Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T19:56:07.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.scss",
+              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\site.scss",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.scss",
+              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\site.scss",
+              "RelativeToolTip": "wwwroot\\css\\site.scss",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-03-20T19:46:23.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SignIn.cshtml",
+              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Views\\Auth\\SignIn.cshtml",
+              "RelativeDocumentMoniker": "Views\\Auth\\SignIn.cshtml",
+              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Views\\Auth\\SignIn.cshtml",
+              "RelativeToolTip": "Views\\Auth\\SignIn.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T16:10:51.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Views\\Auth\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "Views\\Auth\\SignUp.cshtml",
+              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Views\\Auth\\SignUp.cshtml",
+              "RelativeToolTip": "Views\\Auth\\SignUp.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T16:11:45.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Views\\Default\\Home.cshtml",
+              "RelativeDocumentMoniker": "Views\\Default\\Home.cshtml",
+              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Views\\Default\\Home.cshtml",
+              "RelativeToolTip": "Views\\Default\\Home.cshtml",
+              "ViewState": "AQIAADIAAAAAAAAAAAAIwEsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T15:32:10.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-16T16:10:06.974Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SignUpViewModel.cs",
-              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Models\\SignUpViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\SignUpViewModel.cs",
-              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Models\\SignUpViewModel.cs",
-              "RelativeToolTip": "Models\\SignUpViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T16:14:50.718Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAADIAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-16T16:10:20.439Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
@@ -144,72 +202,136 @@
               "RelativeToolTip": "Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-16T16:10:08.647Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-16T16:10:06.974Z"
+              "WhenOpened": "2024-03-16T16:10:08.647Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "SignInViewModel.cs",
+              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Models\\SignInViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\SignInViewModel.cs",
+              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Models\\SignInViewModel.cs",
+              "RelativeToolTip": "Models\\SignInViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T16:34:13.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
               "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Controllers\\AuthController.cs",
-=======
-              "DocumentIndex": 7,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Controllers\\AuthController.cs",
->>>>>>> 742a8ccdd3cb7d2e8d836fe566e6bfda702812be
               "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T16:16:07.984Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T16:16:07.984Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SignUp.cshtml",
-<<<<<<< HEAD
-              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Views\\Auth\\SignUp.cshtml",
-              "RelativeDocumentMoniker": "Views\\Auth\\SignUp.cshtml",
-              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Views\\Auth\\SignUp.cshtml",
-=======
-              "DocumentMoniker": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Views\\Auth\\SignUp.cshtml",
-              "RelativeDocumentMoniker": "Views\\Auth\\SignUp.cshtml",
-              "ToolTip": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Views\\Auth\\SignUp.cshtml",
->>>>>>> 742a8ccdd3cb7d2e8d836fe566e6bfda702812be
-              "RelativeToolTip": "Views\\Auth\\SignUp.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAC4AAABJAAAA",
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-20T19:46:12.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-16T16:45:32.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DefaultController.cs",
+              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "Controllers\\DefaultController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T16:22:08.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SignUpViewModel.cs",
+              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Models\\SignUpViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\SignUpViewModel.cs",
+              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Models\\SignUpViewModel.cs",
+              "RelativeToolTip": "Models\\SignUpViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T16:14:50.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADcAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-15T16:11:45.187Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-16T16:10:20.439Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
+              "Title": "_container.scss",
+              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\components\\_container.scss",
+              "RelativeDocumentMoniker": "wwwroot\\css\\scss\\components\\_container.scss",
+              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\components\\_container.scss",
+              "RelativeToolTip": "wwwroot\\css\\scss\\components\\_container.scss",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-03-20T16:29:03.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_components.scss",
+              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\_components.scss",
+              "RelativeDocumentMoniker": "wwwroot\\css\\scss\\_components.scss",
+              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\_components.scss",
+              "RelativeToolTip": "wwwroot\\css\\scss\\_components.scss",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-03-20T16:29:08.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_cores.scss",
+              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\_cores.scss",
+              "RelativeDocumentMoniker": "wwwroot\\css\\scss\\_cores.scss",
+              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\_cores.scss",
+              "RelativeToolTip": "wwwroot\\css\\scss\\_cores.scss",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-03-20T16:29:09.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "_colors.scss",
-<<<<<<< HEAD
               "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\cores\\_colors.scss",
               "RelativeDocumentMoniker": "wwwroot\\css\\scss\\cores\\_colors.scss",
               "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\cores\\_colors.scss",
-=======
-              "DocumentMoniker": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\cores\\_colors.scss",
-              "RelativeDocumentMoniker": "wwwroot\\css\\scss\\cores\\_colors.scss",
-              "ToolTip": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\cores\\_colors.scss",
->>>>>>> 742a8ccdd3cb7d2e8d836fe566e6bfda702812be
               "RelativeToolTip": "wwwroot\\css\\scss\\cores\\_colors.scss",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
@@ -217,203 +339,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SignIn.cshtml",
-              "DocumentMoniker": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Views\\Auth\\SignIn.cshtml",
-              "RelativeDocumentMoniker": "Views\\Auth\\SignIn.cshtml",
-              "ToolTip": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Views\\Auth\\SignIn.cshtml",
-              "RelativeToolTip": "Views\\Auth\\SignIn.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-15T16:10:51.449Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SignInViewModel.cs",
-              "DocumentMoniker": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Models\\SignInViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\SignInViewModel.cs",
-              "ToolTip": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Models\\SignInViewModel.cs",
-              "RelativeToolTip": "Models\\SignInViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T12:17:07.67Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_forms.scss",
-              "DocumentMoniker": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\components\\_forms.scss",
-              "RelativeDocumentMoniker": "wwwroot\\css\\scss\\components\\_forms.scss",
-              "ToolTip": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\components\\_forms.scss",
-              "RelativeToolTip": "wwwroot\\css\\scss\\components\\_forms.scss",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
-              "WhenOpened": "2024-03-15T15:35:34.355Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_signup.scss",
-              "DocumentMoniker": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\sections\\_signup.scss",
-              "RelativeDocumentMoniker": "wwwroot\\css\\scss\\sections\\_signup.scss",
-              "ToolTip": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\sections\\_signup.scss",
-              "RelativeToolTip": "wwwroot\\css\\scss\\sections\\_signup.scss",
-              "ViewState": "AQIAADIAAAAAAAAAAAAAAD4AAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
-              "WhenOpened": "2024-03-15T15:35:02.596Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "site.js",
-              "DocumentMoniker": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "wwwroot\\js\\site.js",
-              "ViewState": "AQIAAFEAAAAAAAAAAAAAAG8AAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-03-16T16:45:32.341Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACUAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-16T16:10:20.439Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SignUpViewModel.cs",
-              "DocumentMoniker": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Models\\SignUpViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\SignUpViewModel.cs",
-              "ToolTip": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Models\\SignUpViewModel.cs",
-              "RelativeToolTip": "Models\\SignUpViewModel.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAA1wCIAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T16:14:50.718Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-16T16:10:06.974Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DefaultController.cs",
-              "DocumentMoniker": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Controllers\\DefaultController.cs",
-              "RelativeDocumentMoniker": "Controllers\\DefaultController.cs",
-              "ToolTip": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Controllers\\DefaultController.cs",
-              "RelativeToolTip": "Controllers\\DefaultController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T12:24:17.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-16T16:10:08.647Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T09:19:18.905Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "_buttons.scss",
-<<<<<<< HEAD
               "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\components\\_buttons.scss",
               "RelativeDocumentMoniker": "wwwroot\\css\\scss\\components\\_buttons.scss",
               "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\components\\_buttons.scss",
-=======
-              "DocumentMoniker": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\components\\_buttons.scss",
-              "RelativeDocumentMoniker": "wwwroot\\css\\scss\\components\\_buttons.scss",
-              "ToolTip": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\components\\_buttons.scss",
->>>>>>> 742a8ccdd3cb7d2e8d836fe566e6bfda702812be
               "RelativeToolTip": "wwwroot\\css\\scss\\components\\_buttons.scss",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAYAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
               "WhenOpened": "2024-03-15T15:50:22.646Z"
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 4,
-              "Title": "_forms.scss",
-              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\components\\_forms.scss",
-              "RelativeDocumentMoniker": "wwwroot\\css\\scss\\components\\_forms.scss",
-              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\components\\_forms.scss",
-              "RelativeToolTip": "wwwroot\\css\\scss\\components\\_forms.scss",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
-              "WhenOpened": "2024-03-15T15:35:34.355Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_signup.scss",
-              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\sections\\_signup.scss",
-              "RelativeDocumentMoniker": "wwwroot\\css\\scss\\sections\\_signup.scss",
-              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\sections\\_signup.scss",
-              "RelativeToolTip": "wwwroot\\css\\scss\\sections\\_signup.scss",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAEQAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
-              "WhenOpened": "2024-03-15T15:35:02.596Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "_tool-showcase.scss",
               "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\sections\\_tool-showcase.scss",
               "RelativeDocumentMoniker": "wwwroot\\css\\scss\\sections\\_tool-showcase.scss",
               "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\sections\\_tool-showcase.scss",
-=======
-              "DocumentIndex": 17,
-              "Title": "_tool-showcase.scss",
-              "DocumentMoniker": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\sections\\_tool-showcase.scss",
-              "RelativeDocumentMoniker": "wwwroot\\css\\scss\\sections\\_tool-showcase.scss",
-              "ToolTip": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\sections\\_tool-showcase.scss",
->>>>>>> 742a8ccdd3cb7d2e8d836fe566e6bfda702812be
               "RelativeToolTip": "wwwroot\\css\\scss\\sections\\_tool-showcase.scss",
               "ViewState": "AQIAABIAAAAAAAAAAAAAADAAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
@@ -421,67 +363,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Home.cshtml",
-<<<<<<< HEAD
-              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Views\\Default\\Home.cshtml",
-              "RelativeDocumentMoniker": "Views\\Default\\Home.cshtml",
-              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Views\\Default\\Home.cshtml",
-=======
-              "DocumentMoniker": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Views\\Default\\Home.cshtml",
-              "RelativeDocumentMoniker": "Views\\Default\\Home.cshtml",
-              "ToolTip": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Views\\Default\\Home.cshtml",
->>>>>>> 742a8ccdd3cb7d2e8d836fe566e6bfda702812be
-              "RelativeToolTip": "Views\\Default\\Home.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-15T15:32:10.981Z"
+              "DocumentIndex": 14,
+              "Title": "_signup.scss",
+              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\sections\\_signup.scss",
+              "RelativeDocumentMoniker": "wwwroot\\css\\scss\\sections\\_signup.scss",
+              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\sections\\_signup.scss",
+              "RelativeToolTip": "wwwroot\\css\\scss\\sections\\_signup.scss",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAABkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-03-15T15:35:02.596Z"
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 10,
-              "Title": "SignIn.cshtml",
-              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Views\\Auth\\SignIn.cshtml",
-              "RelativeDocumentMoniker": "Views\\Auth\\SignIn.cshtml",
-              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\Views\\Auth\\SignIn.cshtml",
-              "RelativeToolTip": "Views\\Auth\\SignIn.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-15T16:10:51.449Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "_fonts.scss",
               "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\cores\\_fonts.scss",
               "RelativeDocumentMoniker": "wwwroot\\css\\scss\\cores\\_fonts.scss",
               "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\cores\\_fonts.scss",
-=======
-              "DocumentIndex": 16,
-              "Title": "_fonts.scss",
-              "DocumentMoniker": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\cores\\_fonts.scss",
-              "RelativeDocumentMoniker": "wwwroot\\css\\scss\\cores\\_fonts.scss",
-              "ToolTip": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\cores\\_fonts.scss",
->>>>>>> 742a8ccdd3cb7d2e8d836fe566e6bfda702812be
               "RelativeToolTip": "wwwroot\\css\\scss\\cores\\_fonts.scss",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
               "WhenOpened": "2024-03-15T11:47:25.457Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 15,
+              "Title": "_forms.scss",
+              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\components\\_forms.scss",
+              "RelativeDocumentMoniker": "wwwroot\\css\\scss\\components\\_forms.scss",
+              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\components\\_forms.scss",
+              "RelativeToolTip": "wwwroot\\css\\scss\\components\\_forms.scss",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-03-15T15:35:34.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "_showcase.scss",
-<<<<<<< HEAD
               "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\sections\\_showcase.scss",
               "RelativeDocumentMoniker": "wwwroot\\css\\scss\\sections\\_showcase.scss",
               "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\sections\\_showcase.scss",
-=======
-              "DocumentMoniker": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\sections\\_showcase.scss",
-              "RelativeDocumentMoniker": "wwwroot\\css\\scss\\sections\\_showcase.scss",
-              "ToolTip": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\sections\\_showcase.scss",
->>>>>>> 742a8ccdd3cb7d2e8d836fe566e6bfda702812be
               "RelativeToolTip": "wwwroot\\css\\scss\\sections\\_showcase.scss",
               "ViewState": "AQIAABsAAAAAAAAAAAAAACEAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",

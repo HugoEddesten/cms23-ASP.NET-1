@@ -1,139 +1,139 @@
 {
   "Files": [
     {
-      "Id": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\_components.scss",
+      "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\_components.scss",
       "PackagePath": "staticwebassets\\css\\scss\\_components.scss"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\_cores.scss",
+      "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\_cores.scss",
       "PackagePath": "staticwebassets\\css\\scss\\_cores.scss"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\_sections.scss",
+      "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\_sections.scss",
       "PackagePath": "staticwebassets\\css\\scss\\_sections.scss"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\components\\_buttons.scss",
+      "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\components\\_buttons.scss",
       "PackagePath": "staticwebassets\\css\\scss\\components\\_buttons.scss"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\components\\_container.scss",
+      "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\components\\_container.scss",
       "PackagePath": "staticwebassets\\css\\scss\\components\\_container.scss"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\components\\_forms.scss",
+      "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\components\\_forms.scss",
       "PackagePath": "staticwebassets\\css\\scss\\components\\_forms.scss"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\cores\\_colors.scss",
+      "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\cores\\_colors.scss",
       "PackagePath": "staticwebassets\\css\\scss\\cores\\_colors.scss"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\cores\\_common.scss",
+      "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\cores\\_common.scss",
       "PackagePath": "staticwebassets\\css\\scss\\cores\\_common.scss"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\cores\\_fonts.scss",
+      "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\cores\\_fonts.scss",
       "PackagePath": "staticwebassets\\css\\scss\\cores\\_fonts.scss"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\cores\\_media.scss",
+      "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\cores\\_media.scss",
       "PackagePath": "staticwebassets\\css\\scss\\cores\\_media.scss"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\sections\\_footer.scss",
+      "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\sections\\_footer.scss",
       "PackagePath": "staticwebassets\\css\\scss\\sections\\_footer.scss"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\sections\\_header.scss",
+      "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\sections\\_header.scss",
       "PackagePath": "staticwebassets\\css\\scss\\sections\\_header.scss"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\sections\\_showcase.scss",
+      "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\sections\\_showcase.scss",
       "PackagePath": "staticwebassets\\css\\scss\\sections\\_showcase.scss"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\sections\\_signup.scss",
+      "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\sections\\_signup.scss",
       "PackagePath": "staticwebassets\\css\\scss\\sections\\_signup.scss"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\sections\\_tool-showcase.scss",
+      "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\scss\\sections\\_tool-showcase.scss",
       "PackagePath": "staticwebassets\\css\\scss\\sections\\_tool-showcase.scss"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\site.css",
+      "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\site.min.css",
+      "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\site.min.css",
       "PackagePath": "staticwebassets\\css\\site.min.css"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\site.scss",
+      "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\css\\site.scss",
       "PackagePath": "staticwebassets\\css\\site.scss"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\customer-example-logos.svg",
+      "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\customer-example-logos.svg",
       "PackagePath": "staticwebassets\\images\\customer-example-logos.svg"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\logo.svg",
+      "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\logo.svg",
       "PackagePath": "staticwebassets\\images\\logo.svg"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\screen-slider\\Dark-screen.svg",
+      "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\screen-slider\\Dark-screen.svg",
       "PackagePath": "staticwebassets\\images\\screen-slider\\Dark-screen.svg"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\screen-slider\\Light-screen.svg",
+      "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\screen-slider\\Light-screen.svg",
       "PackagePath": "staticwebassets\\images\\screen-slider\\Light-screen.svg"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\showcase-image.svg",
+      "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\showcase-image.svg",
       "PackagePath": "staticwebassets\\images\\showcase-image.svg"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\social-medias\\bxl-facebook-square.svg",
+      "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\social-medias\\bxl-facebook-square.svg",
       "PackagePath": "staticwebassets\\images\\social-medias\\bxl-facebook-square.svg"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\social-medias\\bxl-instagram-alt.svg",
+      "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\social-medias\\bxl-instagram-alt.svg",
       "PackagePath": "staticwebassets\\images\\social-medias\\bxl-instagram-alt.svg"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\social-medias\\bxl-twitter.svg",
+      "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\social-medias\\bxl-twitter.svg",
       "PackagePath": "staticwebassets\\images\\social-medias\\bxl-twitter.svg"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\social-medias\\bxl-youtube.svg",
+      "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\social-medias\\bxl-youtube.svg",
       "PackagePath": "staticwebassets\\images\\social-medias\\bxl-youtube.svg"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\tool-showcase\\add-group.svg",
+      "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\tool-showcase\\add-group.svg",
       "PackagePath": "staticwebassets\\images\\tool-showcase\\add-group.svg"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\tool-showcase\\bell.svg",
+      "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\tool-showcase\\bell.svg",
       "PackagePath": "staticwebassets\\images\\tool-showcase\\bell.svg"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\tool-showcase\\chat.svg",
+      "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\tool-showcase\\chat.svg",
       "PackagePath": "staticwebassets\\images\\tool-showcase\\chat.svg"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\tool-showcase\\presentation.svg",
+      "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\tool-showcase\\presentation.svg",
       "PackagePath": "staticwebassets\\images\\tool-showcase\\presentation.svg"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\tool-showcase\\shield.svg",
+      "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\tool-showcase\\shield.svg",
       "PackagePath": "staticwebassets\\images\\tool-showcase\\shield.svg"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\tool-showcase\\test.svg",
+      "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\images\\tool-showcase\\test.svg",
       "PackagePath": "staticwebassets\\images\\tool-showcase\\test.svg"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\js\\site.js",
+      "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Assignment\\ASPNET_Assignment\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {

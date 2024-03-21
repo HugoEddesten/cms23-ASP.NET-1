@@ -33,7 +33,7 @@ namespace ASPNET_Assignment.Models
 
 
         [Display(Name = "I agree to the Terms & Conditions.")]
-        [Required(ErrorMessage = "Accepting the Terms and Conditions is required")]
+        [DeniedValues(values: false, ErrorMessage = "Accepting the Terms and Conditions is required")]
         public bool TermsAndConditions { get; set; }
     }
 }

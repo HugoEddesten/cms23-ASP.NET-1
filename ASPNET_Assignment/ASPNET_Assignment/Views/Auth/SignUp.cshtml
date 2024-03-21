@@ -44,11 +44,11 @@
             <div class="checkbox-group">
                 <div class="input-group">
                     <input asp-for="TermsAndConditions" />
-                    <span asp-validation-for="TermsAndConditions"></span>
+                    
                     <label asp-for="TermsAndConditions">I agree to the <a asp-controller="About" asp-action="Terms">Terms</a> and <a asp-controller="About" asp-action="Conditions">Conditions</a></label>
                     
                 </div>
-                
+                <span asp-validation-for="TermsAndConditions"></span>
             </div>
 
             <button class="btn btn-theme" type="submit">Sign up</button>
