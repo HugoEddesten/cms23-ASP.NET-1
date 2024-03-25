@@ -1,0 +1,105 @@
+.sidebar {
+    border-right: 2px solid var(--color-gray-200);
+    padding: 0px 10px;
+
+    .details {
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+
+        div {
+            display: flex;
+            width: fit-content;
+            position: relative;
+            align-self: center;
+            margin-bottom: 20px;
+            text-align: center;
+
+            .profile {
+                font-size: 3em;
+                min-width: 3.125em;
+                min-height: 3.125em;
+                padding: 50px;
+                border: 1px solid var(--color-gray-800);
+                margin: 0px;
+                border-radius: 100%;
+            }
+
+            .switch {
+                position: absolute;
+                min-width: 2.4125em;
+                min-height: 2.4125em;
+                font-size: 1em;
+                bottom: 6px;
+                right: 6px;
+                padding: 10px;
+                border: 1px solid var(--color-gray-800);
+                border-radius: 100%;
+                background-color: var(--color-white);
+
+
+
+                &:hover {
+                    background-color: var(--color-theme);
+                    color: var(--color-white);
+                    cursor: pointer;
+                }
+            }
+        }
+
+
+        h5 {
+            margin-top: 0;
+            margin-bottom: 4px;
+        }
+
+        p {
+            @include font-m;
+            margin: 0;
+            margin-bottom: 50px;
+        }
+    }
+
+    nav {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+
+        a {
+            display: flex;
+            @include font-navigation;
+            text-align: left;
+            padding: 10px 100px 10px 20px;
+            border-radius: 8px;
+            text-decoration: none;
+            border: 1px solid var(--color-white);
+
+            div {
+                width: fit-content;
+                min-width: 1.7em;
+
+                i {
+                    margin-right: 10px;
+                }
+            }
+
+
+            &:hover {
+                border-color: var(--color-theme);
+            }
+
+            &.active {
+                background-color: var(--color-theme);
+                color: var(--color-white);
+                border-color: var(--color-theme);
+            }
+
+            &#sign-out {
+                &:hover {
+                    border-color: var(--color-error);
+                    color: var(--color-error);
+                }
+            }
+        }
+    }
+}

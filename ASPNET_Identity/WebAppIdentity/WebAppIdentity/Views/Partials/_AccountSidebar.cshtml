@@ -1,0 +1,51 @@
+﻿
+@using Infrastructure.Enitities
+@using Microsoft.AspNetCore.Identity
+
+@inject UserManager<UserEntity> UserManager;
+@{
+    var currentUser = await UserManager.GetUserAsync(User);
+}
+
+
+<section class="sidebar">
+
+    <div class="details">
+        <div>
+            <i class="profile fa-regular fa-user"></i>
+            <i class="switch fa-sharp fa-regular fa-arrows-rotate"></i>
+        </div>
+        
+        <h5>@currentUser.FirstName @currentUser.LastName</h5>
+        <p>@currentUser.Email</p>
+      
+    </div>
+
+    <nav>
+        <a asp-controller="Account" asp-action="Details" class="sidebar-link">
+            <div>
+                <i class="fa-regular fa-gear"></i>
+            </div>
+            Account Details
+        </a>
+        <a asp-controller="Account" asp-action="Security" class="sidebar-link">
+            <div>
+                <i class="fa-regular fa-lock"></i>
+            </div>
+            Security
+        </a>
+        <a asp-controller="Account" asp-action="SavedCourses" class="sidebar-link">
+            <div>
+                <i class="fa-regular fa-bookmark"></i>
+            </div>
+            Saved Courses
+            </a>
+        <a asp-controller="Auth" asp-action="SignOut" class="sidebar-link" id="sign-out">
+            <div>
+                <i class="fa-solid fa-arrow-right-from-bracket"></i>
+            </div>
+            Sign Out
+        </a>
+    </nav>
+
+</section>

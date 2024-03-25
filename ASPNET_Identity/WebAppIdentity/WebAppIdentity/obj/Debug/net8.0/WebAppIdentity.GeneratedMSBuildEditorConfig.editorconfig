@@ -18,6 +18,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\nackademin\cms23-ASP.NET-1\ASPNET_Identity\WebAppIdentity\WebAppIdentity
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/nackademin/cms23-ASP.NET-1/ASPNET_Identity/WebAppIdentity/WebAppIdentity/Views/Account/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/nackademin/cms23-ASP.NET-1/ASPNET_Identity/WebAppIdentity/WebAppIdentity/Views/Account/SavedCourses.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxTYXZlZENvdXJzZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/nackademin/cms23-ASP.NET-1/ASPNET_Identity/WebAppIdentity/WebAppIdentity/Views/Account/Security.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxTZWN1cml0eS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/nackademin/cms23-ASP.NET-1/ASPNET_Identity/WebAppIdentity/WebAppIdentity/Views/Auth/SignIn.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxTaWduSW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -28,6 +40,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/nackademin/cms23-ASP.NET-1/ASPNET_Identity/WebAppIdentity/WebAppIdentity/Views/Default/Home.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxIb21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/nackademin/cms23-ASP.NET-1/ASPNET_Identity/WebAppIdentity/WebAppIdentity/Views/Partials/_AccountSidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcX0FjY291bnRTaWRlYmFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/nackademin/cms23-ASP.NET-1/ASPNET_Identity/WebAppIdentity/WebAppIdentity/Views/_ViewImports.cshtml]

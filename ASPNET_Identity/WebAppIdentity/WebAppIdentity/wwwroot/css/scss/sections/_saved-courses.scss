@@ -1,0 +1,15 @@
+.saved-courses {
+    .container {
+        display: grid;
+        grid-template-columns: auto 1fr;
+        grid-template-areas: "sidebar list";
+        margin-top: 25px;
+        partial {
+            grid-area: sidebar;
+        }
+        
+        .course-list {
+            grid-area: list;
+        }
+    }
+}

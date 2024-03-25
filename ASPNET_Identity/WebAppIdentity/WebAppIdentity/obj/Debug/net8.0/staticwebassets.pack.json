@@ -45,12 +45,20 @@
       "PackagePath": "staticwebassets\\css\\scss\\cores\\_media.scss"
     },
     {
+      "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\wwwroot\\css\\scss\\sections\\_account-sidebar.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_account-sidebar.scss"
+    },
+    {
       "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\wwwroot\\css\\scss\\sections\\_footer.scss",
       "PackagePath": "staticwebassets\\css\\scss\\sections\\_footer.scss"
     },
     {
       "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\wwwroot\\css\\scss\\sections\\_header.scss",
       "PackagePath": "staticwebassets\\css\\scss\\sections\\_header.scss"
+    },
+    {
+      "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\wwwroot\\css\\scss\\sections\\_saved-courses.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_saved-courses.scss"
     },
     {
       "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\wwwroot\\css\\scss\\sections\\_showcase.scss",
@@ -95,6 +103,22 @@
     {
       "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\wwwroot\\images\\showcase-image.svg",
       "PackagePath": "staticwebassets\\images\\showcase-image.svg"
+    },
+    {
+      "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\wwwroot\\images\\sidebar\\bookmark.svg",
+      "PackagePath": "staticwebassets\\images\\sidebar\\bookmark.svg"
+    },
+    {
+      "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\wwwroot\\images\\sidebar\\cog.svg",
+      "PackagePath": "staticwebassets\\images\\sidebar\\cog.svg"
+    },
+    {
+      "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\wwwroot\\images\\sidebar\\lock.svg",
+      "PackagePath": "staticwebassets\\images\\sidebar\\lock.svg"
+    },
+    {
+      "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\wwwroot\\images\\sidebar\\log-out.svg",
+      "PackagePath": "staticwebassets\\images\\sidebar\\log-out.svg"
     },
     {
       "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\wwwroot\\images\\social-medias\\bxl-facebook-square.svg",

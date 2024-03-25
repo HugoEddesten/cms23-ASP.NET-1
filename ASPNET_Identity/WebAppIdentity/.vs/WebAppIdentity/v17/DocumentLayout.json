@@ -3,92 +3,12 @@
   "WorkspaceRootPath": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9F0906B8-C612-4F45-92DA-7196A5E2F36B}|WebAppIdentity\\WebAppIdentity.csproj|d:\\nackademin\\cms23-asp.net-1\\aspnet_identity\\webappidentity\\webappidentity\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F0906B8-C612-4F45-92DA-7196A5E2F36B}|WebAppIdentity\\WebAppIdentity.csproj|solutionrelative:webappidentity\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9F0906B8-C612-4F45-92DA-7196A5E2F36B}|WebAppIdentity\\WebAppIdentity.csproj|d:\\nackademin\\cms23-asp.net-1\\aspnet_identity\\webappidentity\\webappidentity\\wwwroot\\css\\scss\\sections\\_account-sidebar.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{9F0906B8-C612-4F45-92DA-7196A5E2F36B}|WebAppIdentity\\WebAppIdentity.csproj|solutionrelative:webappidentity\\wwwroot\\css\\scss\\sections\\_account-sidebar.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F0906B8-C612-4F45-92DA-7196A5E2F36B}|WebAppIdentity\\WebAppIdentity.csproj|d:\\nackademin\\cms23-asp.net-1\\aspnet_identity\\webappidentity\\webappidentity\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F0906B8-C612-4F45-92DA-7196A5E2F36B}|WebAppIdentity\\WebAppIdentity.csproj|solutionrelative:webappidentity\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F0906B8-C612-4F45-92DA-7196A5E2F36B}|WebAppIdentity\\WebAppIdentity.csproj|d:\\nackademin\\cms23-asp.net-1\\aspnet_identity\\webappidentity\\webappidentity\\models\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F0906B8-C612-4F45-92DA-7196A5E2F36B}|WebAppIdentity\\WebAppIdentity.csproj|solutionrelative:webappidentity\\models\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F0906B8-C612-4F45-92DA-7196A5E2F36B}|WebAppIdentity\\WebAppIdentity.csproj|d:\\nackademin\\cms23-asp.net-1\\aspnet_identity\\webappidentity\\webappidentity\\views\\default\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9F0906B8-C612-4F45-92DA-7196A5E2F36B}|WebAppIdentity\\WebAppIdentity.csproj|solutionrelative:webappidentity\\views\\default\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F0906B8-C612-4F45-92DA-7196A5E2F36B}|WebAppIdentity\\WebAppIdentity.csproj|d:\\nackademin\\cms23-asp.net-1\\aspnet_identity\\webappidentity\\webappidentity\\views\\auth\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9F0906B8-C612-4F45-92DA-7196A5E2F36B}|WebAppIdentity\\WebAppIdentity.csproj|solutionrelative:webappidentity\\views\\auth\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F0906B8-C612-4F45-92DA-7196A5E2F36B}|WebAppIdentity\\WebAppIdentity.csproj|d:\\nackademin\\cms23-asp.net-1\\aspnet_identity\\webappidentity\\webappidentity\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9F0906B8-C612-4F45-92DA-7196A5E2F36B}|WebAppIdentity\\WebAppIdentity.csproj|solutionrelative:webappidentity\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F0906B8-C612-4F45-92DA-7196A5E2F36B}|WebAppIdentity\\WebAppIdentity.csproj|d:\\nackademin\\cms23-asp.net-1\\aspnet_identity\\webappidentity\\webappidentity\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9F0906B8-C612-4F45-92DA-7196A5E2F36B}|WebAppIdentity\\WebAppIdentity.csproj|solutionrelative:webappidentity\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6CA8948-F2D7-4CE8-9C18-94A9BA674ACF}|Infrastructure\\Infrastructure.csproj|d:\\nackademin\\cms23-asp.net-1\\aspnet_identity\\webappidentity\\infrastructure\\enitities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6CA8948-F2D7-4CE8-9C18-94A9BA674ACF}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\enitities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F0906B8-C612-4F45-92DA-7196A5E2F36B}|WebAppIdentity\\WebAppIdentity.csproj|d:\\nackademin\\cms23-asp.net-1\\aspnet_identity\\webappidentity\\webappidentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F0906B8-C612-4F45-92DA-7196A5E2F36B}|WebAppIdentity\\WebAppIdentity.csproj|solutionrelative:webappidentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F0906B8-C612-4F45-92DA-7196A5E2F36B}|WebAppIdentity\\WebAppIdentity.csproj|d:\\nackademin\\cms23-asp.net-1\\aspnet_identity\\webappidentity\\webappidentity\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9F0906B8-C612-4F45-92DA-7196A5E2F36B}|WebAppIdentity\\WebAppIdentity.csproj|solutionrelative:webappidentity\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F0906B8-C612-4F45-92DA-7196A5E2F36B}|WebAppIdentity\\WebAppIdentity.csproj|d:\\nackademin\\cms23-asp.net-1\\aspnet_identity\\webappidentity\\webappidentity\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9F0906B8-C612-4F45-92DA-7196A5E2F36B}|WebAppIdentity\\WebAppIdentity.csproj|solutionrelative:webappidentity\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F0906B8-C612-4F45-92DA-7196A5E2F36B}|WebAppIdentity\\WebAppIdentity.csproj|d:\\nackademin\\cms23-asp.net-1\\aspnet_identity\\webappidentity\\webappidentity\\wwwroot\\css\\site.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
-      "RelativeMoniker": "D:0:0:{9F0906B8-C612-4F45-92DA-7196A5E2F36B}|WebAppIdentity\\WebAppIdentity.csproj|solutionrelative:webappidentity\\wwwroot\\css\\site.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F0906B8-C612-4F45-92DA-7196A5E2F36B}|WebAppIdentity\\WebAppIdentity.csproj|d:\\nackademin\\cms23-asp.net-1\\aspnet_identity\\webappidentity\\webappidentity\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{9F0906B8-C612-4F45-92DA-7196A5E2F36B}|WebAppIdentity\\WebAppIdentity.csproj|solutionrelative:webappidentity\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F0906B8-C612-4F45-92DA-7196A5E2F36B}|WebAppIdentity\\WebAppIdentity.csproj|d:\\nackademin\\cms23-asp.net-1\\aspnet_identity\\webappidentity\\webappidentity\\wwwroot\\css\\scss\\_sections.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
-      "RelativeMoniker": "D:0:0:{9F0906B8-C612-4F45-92DA-7196A5E2F36B}|WebAppIdentity\\WebAppIdentity.csproj|solutionrelative:webappidentity\\wwwroot\\css\\scss\\_sections.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F0906B8-C612-4F45-92DA-7196A5E2F36B}|WebAppIdentity\\WebAppIdentity.csproj|d:\\nackademin\\cms23-asp.net-1\\aspnet_identity\\webappidentity\\webappidentity\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{9F0906B8-C612-4F45-92DA-7196A5E2F36B}|WebAppIdentity\\WebAppIdentity.csproj|solutionrelative:webappidentity\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F0906B8-C612-4F45-92DA-7196A5E2F36B}|WebAppIdentity\\WebAppIdentity.csproj|d:\\nackademin\\cms23-asp.net-1\\aspnet_identity\\webappidentity\\webappidentity\\models\\signinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F0906B8-C612-4F45-92DA-7196A5E2F36B}|WebAppIdentity\\WebAppIdentity.csproj|solutionrelative:webappidentity\\models\\signinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6CA8948-F2D7-4CE8-9C18-94A9BA674ACF}|Infrastructure\\Infrastructure.csproj|d:\\nackademin\\cms23-asp.net-1\\aspnet_identity\\webappidentity\\infrastructure\\contexts\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6CA8948-F2D7-4CE8-9C18-94A9BA674ACF}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\contexts\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6CA8948-F2D7-4CE8-9C18-94A9BA674ACF}|Infrastructure\\Infrastructure.csproj|d:\\nackademin\\cms23-asp.net-1\\aspnet_identity\\webappidentity\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E6CA8948-F2D7-4CE8-9C18-94A9BA674ACF}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F0906B8-C612-4F45-92DA-7196A5E2F36B}|WebAppIdentity\\WebAppIdentity.csproj|d:\\nackademin\\cms23-asp.net-1\\aspnet_identity\\webappidentity\\webappidentity\\webappidentity.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{9F0906B8-C612-4F45-92DA-7196A5E2F36B}|WebAppIdentity\\WebAppIdentity.csproj|solutionrelative:webappidentity\\webappidentity.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\Database\\Entities\\UserEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Database\\Entities\\UserEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\Database\\Contexts\\DataContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Database\\Contexts\\DataContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\Database\\Infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Database\\Infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{9F0906B8-C612-4F45-92DA-7196A5E2F36B}|WebAppIdentity\\WebAppIdentity.csproj|d:\\nackademin\\cms23-asp.net-1\\aspnet_identity\\webappidentity\\webappidentity\\views\\partials\\_accountsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F0906B8-C612-4F45-92DA-7196A5E2F36B}|WebAppIdentity\\WebAppIdentity.csproj|solutionrelative:webappidentity\\views\\partials\\_accountsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -98,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -110,280 +30,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SignUpViewModel.cs",
-              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\Models\\SignUpViewModel.cs",
-              "RelativeDocumentMoniker": "WebAppIdentity\\Models\\SignUpViewModel.cs",
-              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\Models\\SignUpViewModel.cs",
-              "RelativeToolTip": "WebAppIdentity\\Models\\SignUpViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T19:41:44.356Z",
+              "DocumentIndex": 0,
+              "Title": "_account-sidebar.scss",
+              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\wwwroot\\css\\scss\\sections\\_account-sidebar.scss",
+              "RelativeDocumentMoniker": "WebAppIdentity\\wwwroot\\css\\scss\\sections\\_account-sidebar.scss",
+              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\wwwroot\\css\\scss\\sections\\_account-sidebar.scss",
+              "RelativeToolTip": "WebAppIdentity\\wwwroot\\css\\scss\\sections\\_account-sidebar.scss",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAE4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-03-24T16:58:09.322Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DefaultController.cs",
-              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\Controllers\\DefaultController.cs",
-              "RelativeDocumentMoniker": "WebAppIdentity\\Controllers\\DefaultController.cs",
-              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\Controllers\\DefaultController.cs",
-              "RelativeToolTip": "WebAppIdentity\\Controllers\\DefaultController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T19:42:48.131Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "WebAppIdentity\\Controllers\\AuthController.cs",
-              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "WebAppIdentity\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwCQAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T19:43:18.512Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Home.cshtml",
-              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\Views\\Default\\Home.cshtml",
-              "RelativeDocumentMoniker": "WebAppIdentity\\Views\\Default\\Home.cshtml",
-              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\Views\\Default\\Home.cshtml",
-              "RelativeToolTip": "WebAppIdentity\\Views\\Default\\Home.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFsAAAAKAAAA",
+              "Title": "_AccountSidebar.cshtml",
+              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\Views\\Partials\\_AccountSidebar.cshtml",
+              "RelativeDocumentMoniker": "WebAppIdentity\\Views\\Partials\\_AccountSidebar.cshtml",
+              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\Views\\Partials\\_AccountSidebar.cshtml",
+              "RelativeToolTip": "WebAppIdentity\\Views\\Partials\\_AccountSidebar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-20T19:55:18.74Z",
+              "WhenOpened": "2024-03-22T18:40:10.392Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SignIn.cshtml",
-              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\Views\\Auth\\SignIn.cshtml",
-              "RelativeDocumentMoniker": "WebAppIdentity\\Views\\Auth\\SignIn.cshtml",
-              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\Views\\Auth\\SignIn.cshtml",
-              "RelativeToolTip": "WebAppIdentity\\Views\\Auth\\SignIn.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-20T19:44:20.688Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SignUp.cshtml",
-              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\Views\\Auth\\SignUp.cshtml",
-              "RelativeDocumentMoniker": "WebAppIdentity\\Views\\Auth\\SignUp.cshtml",
-              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\Views\\Auth\\SignUp.cshtml",
-              "RelativeToolTip": "WebAppIdentity\\Views\\Auth\\SignUp.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-20T19:44:49.841Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebAppIdentity\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebAppIdentity\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-20T19:39:04.737Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "site.css",
-              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "WebAppIdentity\\wwwroot\\css\\site.css",
-              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "WebAppIdentity\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-20T19:54:21.646Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\Program.cs",
-              "RelativeDocumentMoniker": "WebAppIdentity\\Program.cs",
-              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\Program.cs",
-              "RelativeToolTip": "WebAppIdentity\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T17:21:37.333Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "WebAppIdentity\\Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "WebAppIdentity\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-20T19:41:16.075Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "WebAppIdentity\\Views\\_ViewImports.cshtml",
-              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "WebAppIdentity\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-20T19:41:16.701Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "site.scss",
-              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\wwwroot\\css\\site.scss",
-              "RelativeDocumentMoniker": "WebAppIdentity\\wwwroot\\css\\site.scss",
-              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\wwwroot\\css\\site.scss",
-              "RelativeToolTip": "WebAppIdentity\\wwwroot\\css\\site.scss",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
-              "WhenOpened": "2024-03-20T19:46:53.785Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "site.js",
-              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "WebAppIdentity\\wwwroot\\js\\site.js",
-              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "WebAppIdentity\\wwwroot\\js\\site.js",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAiwE4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-03-20T19:45:04.963Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "_sections.scss",
-              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\wwwroot\\css\\scss\\_sections.scss",
-              "RelativeDocumentMoniker": "WebAppIdentity\\wwwroot\\css\\scss\\_sections.scss",
-              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\wwwroot\\css\\scss\\_sections.scss",
-              "RelativeToolTip": "WebAppIdentity\\wwwroot\\css\\scss\\_sections.scss",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
-              "WhenOpened": "2024-03-20T19:46:16.788Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "SignInViewModel.cs",
-              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\Models\\SignInViewModel.cs",
-              "RelativeDocumentMoniker": "WebAppIdentity\\Models\\SignInViewModel.cs",
-              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\Models\\SignInViewModel.cs",
-              "RelativeToolTip": "WebAppIdentity\\Models\\SignInViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T19:41:52.93Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "UserContext.cs",
-              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\Infrastructure\\Contexts\\UserContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Contexts\\UserContext.cs",
-              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\Infrastructure\\Contexts\\UserContext.cs",
-              "RelativeToolTip": "Infrastructure\\Contexts\\UserContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T19:15:48.611Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UserEntity.cs",
-              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\Infrastructure\\Enitities\\UserEntity.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Enitities\\UserEntity.cs",
-              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\Infrastructure\\Enitities\\UserEntity.cs",
-              "RelativeToolTip": "Infrastructure\\Enitities\\UserEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T19:12:21.991Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "WebAppIdentity",
-              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\WebAppIdentity.csproj",
-              "RelativeDocumentMoniker": "WebAppIdentity\\WebAppIdentity.csproj",
-              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\WebAppIdentity.csproj",
-              "RelativeToolTip": "WebAppIdentity\\WebAppIdentity.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-20T19:09:51.019Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "UserEntity.cs",
-              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\Database\\Entities\\UserEntity.cs",
-              "RelativeDocumentMoniker": "Database\\Entities\\UserEntity.cs",
-              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\Database\\Entities\\UserEntity.cs",
-              "RelativeToolTip": "Database\\Entities\\UserEntity.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T17:32:22.329Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\Database\\Contexts\\DataContext.cs",
-              "RelativeDocumentMoniker": "Database\\Contexts\\DataContext.cs",
-              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\Database\\Contexts\\DataContext.cs",
-              "RelativeToolTip": "Database\\Contexts\\DataContext.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T17:30:41.304Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Infrastructure.csproj",
-              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\Infrastructure\\Infrastructure.csproj",
-              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
-              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\Infrastructure\\Infrastructure.csproj",
-              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-20T17:28:50.489Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Infrastructure.csproj",
-              "DocumentMoniker": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\Database\\Infrastructure.csproj",
-              "RelativeDocumentMoniker": "Database\\Infrastructure.csproj",
-              "ToolTip": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\Database\\Infrastructure.csproj",
-              "RelativeToolTip": "Database\\Infrastructure.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-20T17:28:18.415Z"
             }
           ]
         }

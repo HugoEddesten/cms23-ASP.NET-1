@@ -37,3 +37,21 @@
         cursor: pointer;
     }
 }
+
+.btn-user {
+    border: 1px solid var(--color-gray-600);
+    background-color: var(--color-gray-200);
+    font-size: 1.3em;
+    padding: 15px 15px;
+    border-radius: 100%;
+    color: var(--color-gray-700);
+
+    div {
+        width: fit-content;
+        height: fit-content;
+        min-height: 1.5em;
+        min-width: 1.4em;
+        text-align: center;
+
+    }
+}

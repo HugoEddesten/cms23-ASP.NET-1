@@ -32,7 +32,7 @@ namespace WebAppIdentity.Controllers
                     var result = await _signInManager.PasswordSignInAsync(user, viewModel.Password, viewModel.RememberMe, false);
                     if (result.Succeeded)
                     {
-                        return RedirectToAction("Home", "Default");
+                        return RedirectToAction("Home", "Default"); // Ändra till Account/SavedCourses
                     }
                 }
             }
@@ -68,7 +68,8 @@ namespace WebAppIdentity.Controllers
                     var result = await _userManager.CreateAsync(userEntity, viewModel.Password);
                     if (result.Succeeded)
                     {
-                        return RedirectToAction("SignIn", "Auth");
+                        await _signInManager.PasswordSignInAsync(userEntity, viewModel.Password, false, false);
+                        return RedirectToAction("Home", "Default"); // Ändra till Account/SavedCourses
                     }
                     else
                     {
@@ -83,5 +84,12 @@ namespace WebAppIdentity.Controllers
             return View(viewModel);
         }
         #endregion
+
+        [Route("/Signout")]
+        public new async Task<IActionResult> SignOut()
+        {
+            await _signInManager.SignOutAsync();
+            return LocalRedirect("/");
+        }
     }
 }

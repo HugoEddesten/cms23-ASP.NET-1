@@ -1,4 +1,8 @@
-﻿<!DOCTYPE html>
+﻿@using Infrastructure.Enitities
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<UserEntity> SignInManager
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -18,14 +22,31 @@
             </nav>
 
             <div class="account-buttons">
-                <a asp-controller="Auth" asp-action="SignIn" class="btn-secondary">
-                    <i class="fa-regular fa-arrow-right-to-bracket"></i>
-                    Sign In
-                </a>
-                <a asp-controller="Auth" asp-action="SignUp" class="btn-theme">
-                    <i class="fa-regular fa-user"></i>
-                    Sign Up
-                </a>
+                @if (SignInManager.IsSignedIn(User))
+                {
+                    <a asp-controller="Account" asp-action="SavedCourses" class="btn-user">
+                        <div>
+                            <i class="fa-regular fa-user"></i>
+                        </div>
+                    </a>
+                }
+                else
+                {
+                    <a asp-controller="Auth" asp-action="SignIn" class="btn-secondary">
+                        <div class="i">
+                            <i class="fa-regular fa-arrow-right-to-bracket"></i>
+                        </div>
+                        
+                        Sign In
+                    </a>
+                    <a asp-controller="Auth" asp-action="SignUp" class="btn-theme">
+                        <div class="i">
+                            <i class="fa-regular fa-user"></i>
+                        </div>
+                        
+                        Sign Up
+                    </a>
+                }
             </div>
 
             <button class="menu-icon"><i class="fa-thin fa-bars"></i></button>

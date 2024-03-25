@@ -202,6 +202,22 @@ body {
   cursor: pointer;
 }
 
+.btn-user {
+  border: 1px solid var(--color-gray-600);
+  background-color: var(--color-gray-200);
+  font-size: 1.3em;
+  padding: 15px 15px;
+  border-radius: 100%;
+  color: var(--color-gray-700);
+}
+.btn-user div {
+  width: fit-content;
+  height: fit-content;
+  min-height: 1.5em;
+  min-width: 1.4em;
+  text-align: center;
+}
+
 header {
   padding-top: 15px;
   padding-bottom: 15px;
@@ -256,6 +272,14 @@ header .container .account-buttons {
   header .container .account-buttons {
     display: flex;
   }
+}
+header .container .account-buttons a {
+  display: flex;
+  flex-direction: row;
+}
+header .container .account-buttons a .i {
+  width: fit-content;
+  min-width: 1.6em;
 }
 header .container .menu-icon {
   grid-area: "menu";
@@ -649,4 +673,143 @@ footer .container p {
   font-size: 1.125em !important;
   grid-area: submit;
   padding: 18px 0px;
+}
+
+.sidebar {
+  border-right: 2px solid var(--color-gray-200);
+  padding: 0px 10px;
+}
+.sidebar .details {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+.sidebar .details div {
+  display: flex;
+  width: fit-content;
+  position: relative;
+  align-self: center;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.sidebar .details div .profile {
+  font-size: 3em;
+  min-width: 3.125em;
+  min-height: 3.125em;
+  padding: 50px;
+  border: 1px solid var(--color-gray-800);
+  margin: 0px;
+  border-radius: 100%;
+}
+.sidebar .details div .switch {
+  position: absolute;
+  min-width: 2.4125em;
+  min-height: 2.4125em;
+  font-size: 1em;
+  bottom: 6px;
+  right: 6px;
+  padding: 10px;
+  border: 1px solid var(--color-gray-800);
+  border-radius: 100%;
+  background-color: var(--color-white);
+}
+.sidebar .details div .switch:hover {
+  background-color: var(--color-theme);
+  color: var(--color-white);
+  cursor: pointer;
+}
+.sidebar .details h5 {
+  margin-top: 0;
+  margin-bottom: 4px;
+}
+.sidebar .details p {
+  font-family: "Manrope", "sans-serif";
+  line-height: 1.5;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.6;
+  color: var(--color-gray-700);
+  margin: 0;
+  margin-bottom: 50px;
+}
+.sidebar nav {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.sidebar nav a {
+  display: flex;
+  font-family: "Manrope", "sans-serif";
+  line-height: 1.5;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 1.6;
+  color: var(--color-gray-800);
+  text-align: left;
+  padding: 10px 100px 10px 20px;
+  border-radius: 8px;
+  text-decoration: none;
+  border: 1px solid var(--color-white);
+}
+.sidebar nav a:hover {
+  color: var(--color-theme);
+  cursor: pointer;
+}
+.sidebar nav a div {
+  width: fit-content;
+  min-width: 1.7em;
+}
+.sidebar nav a div i {
+  margin-right: 10px;
+}
+.sidebar nav a:hover {
+  border-color: var(--color-theme);
+}
+.sidebar nav a.active {
+  background-color: var(--color-theme);
+  color: var(--color-white);
+  border-color: var(--color-theme);
+}
+.sidebar nav a#sign-out:hover {
+  border-color: var(--color-error);
+  color: var(--color-error);
+}
+
+.saved-courses .container {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  grid-template-areas: "sidebar list";
+  margin-top: 25px;
+}
+.saved-courses .container partial {
+  grid-area: sidebar;
+}
+.saved-courses .container .course-list {
+  grid-area: list;
+}
+
+.details .container {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  grid-template-areas: "sidebar list";
+  margin-top: 25px;
+}
+.details .container partial {
+  grid-area: sidebar;
+}
+.details .container .details-form {
+  grid-area: list;
+}
+
+.security .container {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  grid-template-areas: "sidebar list";
+  margin-top: 25px;
+}
+.security .container partial {
+  grid-area: sidebar;
+}
+.security .container .security-form {
+  grid-area: list;
 }

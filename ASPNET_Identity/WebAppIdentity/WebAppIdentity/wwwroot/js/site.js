@@ -1,39 +1,62 @@
-﻿let forms = document.querySelectorAll('form')
-let inputs = forms[0].querySelectorAll('input')
+﻿try {
+    let forms = document.querySelectorAll('form')
+    let inputs = forms[0].querySelectorAll('input')
+
+    inputs.forEach(input => {
+        if (input.dataset.val === 'true') {
+            input.addEventListener('keyup', (e) => {
+                switch (e.target.name) {
+                    case 'FirstName':
+                        textValidation(e, e.target.dataset.valMinlengthMin)
+                        break
+
+                    case 'LastName':
+                        textValidation(e, e.target.dataset.valMinlengthMin)
+                        break
+
+                    case 'Email':
+                        emailValidation(e)
+                        break
+
+                    case 'Password':
+                        passwordValidation(e)
+                        break
+
+                    case 'ConfirmPassword':
+                        passwordConfirmationValidation(e)
+                        break
+
+                    case 'I agree to the Terms & Conditions.':
+                        console.log("hej");
+                        termsAndConditionsValidation(e)
+                        break
+                }
+            })
+        }
+    })
+}
+catch { }
+
+try {
+    let navLinks = document.querySelectorAll('.sidebar-link')
+
+    navLinks.forEach(link => {
+        console.log("Window: " + window.location.pathname)
+        console.log("link: " + link.pathname)
+        if (link.pathname == window.location.pathname)
+            link.classList.add("active")
+        else {
+            link.classList.remove("active")
+        }
+            
+    })
+    
+}
+catch {
+
+}
 
 
-inputs.forEach(input => {
-    if (input.dataset.val === 'true') {
-        input.addEventListener('keyup', (e) => {
-            switch (e.target.name) {
-                case 'FirstName':
-                    textValidation(e, e.target.dataset.valMinlengthMin)
-                    break
-
-                case 'LastName':
-                    textValidation(e, e.target.dataset.valMinlengthMin)
-                    break
-
-                case 'Email':
-                    emailValidation(e)
-                    break
-
-                case 'Password':
-                    passwordValidation(e)
-                    break
-
-                case 'ConfirmPassword':
-                    passwordConfirmationValidation(e)
-                    break
-
-                case 'I agree to the Terms & Conditions.':
-                    console.log("hej");
-                    termsAndConditionsValidation(e)
-                    break
-            }
-        })
-    }
-})
 
 const handleValidationOutput = (isValid, e, text = "") => {
     let span = document.querySelector(`[data-valmsg-for="${e.target.name}"]`)
