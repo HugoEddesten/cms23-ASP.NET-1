@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "nrUvKqVSqtoDZYElsUxSxz8eg0TjwjM/LRCEhRmkWi4=",
+  "Hash": "jKToLM/NNnOKCVVL/5JFlh1KTsp06S/ZFyJQg56wbyc=",
   "Source": "WebAppIdentity",
   "BasePath": "_content/WebAppIdentity",
   "Mode": "Default",
@@ -1404,6 +1404,25 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\sections\\_account-sidebar.scss"
     },
     {
+      "Identity": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\wwwroot\\css\\scss\\sections\\_details.scss",
+      "SourceId": "WebAppIdentity",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\wwwroot\\",
+      "BasePath": "_content/WebAppIdentity",
+      "RelativePath": "css/scss/sections/_details.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\scss\\sections\\_details.scss"
+    },
+    {
       "Identity": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\wwwroot\\css\\scss\\sections\\_footer.scss",
       "SourceId": "WebAppIdentity",
       "SourceType": "Discovered",
@@ -1459,6 +1478,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\scss\\sections\\_saved-courses.scss"
+    },
+    {
+      "Identity": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\wwwroot\\css\\scss\\sections\\_security.scss",
+      "SourceId": "WebAppIdentity",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\wwwroot\\",
+      "BasePath": "_content/WebAppIdentity",
+      "RelativePath": "css/scss/sections/_security.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\scss\\sections\\_security.scss"
     },
     {
       "Identity": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\wwwroot\\css\\scss\\sections\\_showcase.scss",

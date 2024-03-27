@@ -49,6 +49,10 @@
       "PackagePath": "staticwebassets\\css\\scss\\sections\\_account-sidebar.scss"
     },
     {
+      "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\wwwroot\\css\\scss\\sections\\_details.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_details.scss"
+    },
+    {
       "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\wwwroot\\css\\scss\\sections\\_footer.scss",
       "PackagePath": "staticwebassets\\css\\scss\\sections\\_footer.scss"
     },
@@ -59,6 +63,10 @@
     {
       "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\wwwroot\\css\\scss\\sections\\_saved-courses.scss",
       "PackagePath": "staticwebassets\\css\\scss\\sections\\_saved-courses.scss"
+    },
+    {
+      "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\wwwroot\\css\\scss\\sections\\_security.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_security.scss"
     },
     {
       "Id": "D:\\nackademin\\cms23-ASP.NET-1\\ASPNET_Identity\\WebAppIdentity\\WebAppIdentity\\wwwroot\\css\\scss\\sections\\_showcase.scss",

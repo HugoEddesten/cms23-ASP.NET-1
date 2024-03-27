@@ -11,6 +11,12 @@
 
         .details-form {
             grid-area: list;
+
+            form {
+                .input-group {
+                    @include form-standard;
+                }
+            }
         }
     }
 }

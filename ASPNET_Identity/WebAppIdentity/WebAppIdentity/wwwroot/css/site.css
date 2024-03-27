@@ -678,6 +678,7 @@ footer .container p {
 .sidebar {
   border-right: 2px solid var(--color-gray-200);
   padding: 0px 10px;
+  margin-right: 100px;
 }
 .sidebar .details {
   text-align: center;
@@ -799,6 +800,58 @@ footer .container p {
 }
 .details .container .details-form {
   grid-area: list;
+}
+.details .container .details-form form .input-group {
+  font-family: "Manrope", "sans-serif";
+  line-height: 1.5;
+  font-size: 16px;
+  font-weight: 400;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+.details .container .details-form form .input-group label {
+  font-family: "Manrope", "sans-serif";
+  line-height: 1.5;
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--color-gray-900);
+}
+.details .container .details-form form .input-group input {
+  padding: 18px;
+  border: 1px solid var(--color-gray-400);
+  border-radius: 8px;
+}
+.details .container .details-form form .input-group input:focus {
+  box-shadow: 0 8px 18px -8px var(--color-theme-o);
+  outline-color: var(--color-theme);
+}
+.details .container .details-form form .input-group input::placeholder {
+  font-family: "Manrope", "sans-serif";
+  line-height: 1.5;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.6;
+  color: var(--color-gray-700);
+  color: var(--color-gray-500);
+}
+.details .container .details-form form .input-group span {
+  font-family: "Manrope", "sans-serif";
+  line-height: 1.5;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.6;
+  color: var(--color-gray-700);
+  font-size: 0.75em !important;
+  background-color: rgba(239, 68, 68, 0.12);
+  color: var(--color-error);
+  border-radius: 4px;
+  padding: 0 10px;
+  width: fit-content;
+}
+.details .container .details-form form .input-group span.valid {
+  background-color: rgba(34, 197, 94, 0.12) !important;
+  color: var(--color-success) !important;
 }
 
 .security .container {
