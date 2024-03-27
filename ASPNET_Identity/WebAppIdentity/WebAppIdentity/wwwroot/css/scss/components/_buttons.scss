@@ -1,5 +1,5 @@
 @mixin button-standard {
-    @include font-m;
+    @include font-s;
     @include font-semibold;
     padding: 5px 20px;
     border: solid 2px var(--color-theme);

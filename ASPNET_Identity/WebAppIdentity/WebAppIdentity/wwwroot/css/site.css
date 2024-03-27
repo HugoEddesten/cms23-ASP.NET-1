@@ -152,6 +152,7 @@ body {
   font-weight: 400;
   line-height: 1.6;
   color: var(--color-gray-700);
+  font-size: 0.875em !important;
   font-family: "Manrope", "sans-serif";
   line-height: 1.5;
   font-size: 16px;
@@ -180,6 +181,7 @@ body {
   font-weight: 400;
   line-height: 1.6;
   color: var(--color-gray-700);
+  font-size: 0.875em !important;
   font-family: "Manrope", "sans-serif";
   line-height: 1.5;
   font-size: 16px;
@@ -554,6 +556,25 @@ footer .container p {
   color: var(--color-gray-700);
   color: var(--color-gray-500);
 }
+.signup .container form .input-group textarea {
+  all: unset;
+  padding: 18px;
+  border: 1px solid var(--color-gray-400);
+  border-radius: 8px;
+}
+.signup .container form .input-group textarea:focus {
+  box-shadow: 0 8px 18px -8px var(--color-theme-o);
+  outline-color: var(--color-theme);
+}
+.signup .container form .input-group textarea::placeholder {
+  font-family: "Manrope", "sans-serif";
+  line-height: 1.5;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.6;
+  color: var(--color-gray-700);
+  color: var(--color-gray-500);
+}
 .signup .container form .input-group span {
   font-family: "Manrope", "sans-serif";
   line-height: 1.5;
@@ -614,6 +635,25 @@ footer .container p {
   outline-color: var(--color-theme);
 }
 .signup .container form .checkbox-group input::placeholder {
+  font-family: "Manrope", "sans-serif";
+  line-height: 1.5;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.6;
+  color: var(--color-gray-700);
+  color: var(--color-gray-500);
+}
+.signup .container form .checkbox-group textarea {
+  all: unset;
+  padding: 18px;
+  border: 1px solid var(--color-gray-400);
+  border-radius: 8px;
+}
+.signup .container form .checkbox-group textarea:focus {
+  box-shadow: 0 8px 18px -8px var(--color-theme-o);
+  outline-color: var(--color-theme);
+}
+.signup .container form .checkbox-group textarea::placeholder {
   font-family: "Manrope", "sans-serif";
   line-height: 1.5;
   font-size: 16px;
@@ -801,7 +841,17 @@ footer .container p {
 .details .container .details-form {
   grid-area: list;
 }
-.details .container .details-form form .input-group {
+.details .container .details-form form h5 {
+  color: var(--color-theme);
+}
+.details .container .details-form form .form-div {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-areas: "firstname lastname" "email phone" "bio bio";
+  gap: 24px;
+  margin-bottom: 24px;
+}
+.details .container .details-form form .form-div .input-group {
   font-family: "Manrope", "sans-serif";
   line-height: 1.5;
   font-size: 16px;
@@ -810,23 +860,23 @@ footer .container p {
   flex-direction: column;
   gap: 4px;
 }
-.details .container .details-form form .input-group label {
+.details .container .details-form form .form-div .input-group label {
   font-family: "Manrope", "sans-serif";
   line-height: 1.5;
   font-size: 16px;
   font-weight: 600;
   color: var(--color-gray-900);
 }
-.details .container .details-form form .input-group input {
+.details .container .details-form form .form-div .input-group input {
   padding: 18px;
   border: 1px solid var(--color-gray-400);
   border-radius: 8px;
 }
-.details .container .details-form form .input-group input:focus {
+.details .container .details-form form .form-div .input-group input:focus {
   box-shadow: 0 8px 18px -8px var(--color-theme-o);
   outline-color: var(--color-theme);
 }
-.details .container .details-form form .input-group input::placeholder {
+.details .container .details-form form .form-div .input-group input::placeholder {
   font-family: "Manrope", "sans-serif";
   line-height: 1.5;
   font-size: 16px;
@@ -835,7 +885,26 @@ footer .container p {
   color: var(--color-gray-700);
   color: var(--color-gray-500);
 }
-.details .container .details-form form .input-group span {
+.details .container .details-form form .form-div .input-group textarea {
+  all: unset;
+  padding: 18px;
+  border: 1px solid var(--color-gray-400);
+  border-radius: 8px;
+}
+.details .container .details-form form .form-div .input-group textarea:focus {
+  box-shadow: 0 8px 18px -8px var(--color-theme-o);
+  outline-color: var(--color-theme);
+}
+.details .container .details-form form .form-div .input-group textarea::placeholder {
+  font-family: "Manrope", "sans-serif";
+  line-height: 1.5;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.6;
+  color: var(--color-gray-700);
+  color: var(--color-gray-500);
+}
+.details .container .details-form form .form-div .input-group span {
   font-family: "Manrope", "sans-serif";
   line-height: 1.5;
   font-size: 16px;
@@ -849,9 +918,31 @@ footer .container p {
   padding: 0 10px;
   width: fit-content;
 }
-.details .container .details-form form .input-group span.valid {
+.details .container .details-form form .form-div .input-group span.valid {
   background-color: rgba(34, 197, 94, 0.12) !important;
   color: var(--color-success) !important;
+}
+.details .container .details-form form .form-div .input-group.firstname {
+  grid-area: firstname;
+}
+.details .container .details-form form .form-div .input-group.lastname {
+  grid-area: lastname;
+}
+.details .container .details-form form .form-div .input-group.email {
+  grid-area: email;
+}
+.details .container .details-form form .form-div .input-group.phone {
+  grid-area: phone;
+}
+.details .container .details-form form .form-div .input-group.bio {
+  grid-area: bio;
+}
+.details .container .details-form form .form-div .input-group.bio textarea {
+  height: 100px;
+}
+.details .container .details-form form .buttons {
+  display: flex;
+  gap: 16px;
 }
 
 .security .container {

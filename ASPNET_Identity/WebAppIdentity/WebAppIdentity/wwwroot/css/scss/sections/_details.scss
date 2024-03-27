@@ -13,8 +13,48 @@
             grid-area: list;
 
             form {
-                .input-group {
-                    @include form-standard;
+                h5 {
+                    color: var(--color-theme);
+                }
+                .form-div {
+                    display: grid;
+                    grid-template-columns: 1fr 1fr;
+                    grid-template-areas: "firstname lastname" "email phone" "bio bio";
+                    gap: 24px;
+                    margin-bottom: 24px;
+
+                    .input-group {
+                        @include form-standard;
+
+                        &.firstname {
+                            grid-area: firstname;
+                        }
+
+                        &.lastname {
+                            grid-area: lastname;
+                        }
+
+                        &.email {
+                            grid-area: email;
+                        }
+
+                        &.phone {
+                            grid-area: phone;
+                        }
+
+                        &.bio {
+                            grid-area: bio;
+
+                            textarea {
+                                height: 100px;
+                            }
+                        }
+                    }
+                }
+                .buttons {
+                    display: flex;
+                    gap: 16px;
+                    
                 }
             }
         }

@@ -7,50 +7,97 @@
         <div class="details-form">
             <h2>Account Details</h2>
 
-            <form method="post" asp-action="Details" asp-controller="Account">
+            <form method="post" asp-action="UpdateUser" asp-controller="Account">
+                
+                <h5>Basic Info</h5>
+
                 <div>
                     @ViewData["StatusMessage"]
                 </div>
 
-                <div class="firstname input-group">
-                    <label asp-for="FirstName"></label>
-                    <input asp-for="FirstName" />
-                    <span asp-validation-for="FirstName"></span>
+                
+
+                <div class="form-div">
+                    <div class="firstname input-group">
+                        <label asp-for="FirstName"></label>
+                        <input asp-for="FirstName" />
+                        <span asp-validation-for="FirstName"></span>
+                    </div>
+
+                    <div class="lastname input-group">
+                        <label asp-for="LastName"></label>
+                        <input asp-for="LastName" />
+                        <span asp-validation-for="LastName"></span>
+                    </div>
+
+                    <div class="email input-group">
+                        <label asp-for="Email"></label>
+                        <input asp-for="Email" />
+                        <span asp-validation-for="Email"></span>
+                    </div>
+
+                    <div class="phone input-group">
+                        <label asp-for="Phone"></label>
+                        <input asp-for="Phone" />
+                        <span asp-validation-for="Phone"></span>
+                    </div>
+
+                    <div class="bio input-group">
+                        <label asp-for="Bio"></label>
+                        <textarea asp-for="Bio"></textarea>
+                        <span asp-validation-for="Bio"></span>
+                    </div>
                 </div>
-
-                <div class="lastname input-group">
-                    <label asp-for="LastName"></label>
-                    <input asp-for="LastName" />
-                    <span asp-validation-for="LastName"></span>
+                
+                <div class="buttons">
+                    <button class="btn btn-secondary" type="reset" value="reset">Cancel</button>
+                    <button class="btn btn-theme" type="submit">Save changes</button>
                 </div>
-
-                <div class="email input-group">
-                    <label asp-for="Email"></label>
-                    <input asp-for="Email" />
-                    <span asp-validation-for="Email"></span>
-                </div>
-
-                <div class="phone input-group">
-                    <label asp-for="Phone"></label>
-                    <input asp-for="Phone" />
-                    <span asp-validation-for="Phone"></span>
-                </div>
-
-                <div class="bio input-group">
-                    <label asp-for="Bio"></label>
-                    <input asp-for="Bio" />
-                    <span asp-validation-for="Bio"></span>
-                </div>
-
-                <button class="btn btn-secondary">Cancel</button>
-
-                <button class="btn btn-theme" type="submit">Save changes</button>
+                
 
             </form>
 
-            <form method="post" asp-action="Details" asp-controller="Account">
+            @* <form method="post" asp-action="Details" asp-controller="Account">
 
-            </form>
+                <h5>Address</h5>
+
+                <div>
+                    @ViewData["StatusMessage"]
+                </div>
+
+
+                
+                <div class="form-div">
+                    <div class="line1 input-group">
+                        <label asp-for="Addressline1"></label>
+                        <input asp-for="Addressline1" />
+                        <span asp-validation-for="Addressline1"></span>
+                    </div>
+
+                    <div class="line2 input-group">
+                        <label asp-for="Addressline2"></label>
+                        <input asp-for="Addressline2" />
+                        <span asp-validation-for="Addressline2"></span>
+                    </div>
+
+                    <div class="email input-group">
+                        <label asp-for="PostalCode"></label>
+                        <input asp-for="PostalCode" />
+                        <span asp-validation-for="PostalCode"></span>
+                    </div>
+
+                    <div class="city input-group">
+                        <label asp-for="City"></label>
+                        <textarea asp-for="City"></textarea>
+                        <span asp-validation-for="City"></span>
+                    </div>
+                </div>
+
+                <div class="buttons">
+                    <button class="btn btn-secondary" type="reset" value="reset">Cancel</button>
+                    <button class="btn btn-theme" type="submit">Save changes</button>
+                </div>
+            </form> *@
 
         </div>
 

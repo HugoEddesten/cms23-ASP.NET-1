@@ -25,6 +25,23 @@
         }
     }
 
+    textarea {
+        all: unset;
+        padding: 18px;
+        border: 1px solid var(--color-gray-400);
+        border-radius: 8px;
+
+        &:focus {
+            @include shadow-theme;
+            outline-color: var(--color-theme);
+        }
+
+        &::placeholder {
+            @include font-m;
+            color: var(--color-gray-500);
+        }
+    }
+
     span {
         @include font-xs;
         background-color: rgba(239, 68, 68, 0.12);
